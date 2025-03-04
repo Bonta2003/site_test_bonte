@@ -1,0 +1,7 @@
+Jeu de données parfums :
+
+* nap_catego_modif.txt est un jeu de données de napping catégorisé
+* descriptif: don_expert.xls (description par des experts), don_parfum0708.xls (description par les étudiants)
+* mots_etudiants.xls : mots donnés par le jury étudiant
+* napping : nappe_etudiants.xls et nappe_etudiant2.xls, nappe_conso.xls
+* donnees hedoniques : note_hedo.xls

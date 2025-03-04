@@ -1,0 +1,1897 @@
+juge;Parfum;Note;Rang;Sexe;Age;Frequence utilisation
+1;Angel;5;3;F;40;régulièrement
+1;Aromatics Elixir;5;6;F;40;régulièrement
+1;Chanel n5;4;5;F;40;régulièrement
+1;Cinema;9;11;F;40;régulièrement
+1;Coco Madmoiselle ;8;1;F;40;régulièrement
+1;Jadore EP;7;9;F;40;régulièrement
+1;Jadore ET;8;7;F;40;régulièrement
+1;Linstant;4;10;F;40;régulièrement
+1;Lolita Lempicka;6;2;F;40;régulièrement
+1;Pleasures;9;8;F;40;régulièrement
+1;Pure Poison;7;4;F;40;régulièrement
+1;Shalimar;4;12;F;40;régulièrement
+2;Angel;4;12;H;21;rarement
+2;Aromatics Elixir;4;5;H;21;rarement
+2;Chanel n5;2;10;H;21;rarement
+2;Cinema;3;4;H;21;rarement
+2;Coco Madmoiselle ;5;11;H;21;rarement
+2;Jadore EP;6;6;H;21;rarement
+2;Jadore ET;7;8;H;21;rarement
+2;Linstant;4;1;H;21;rarement
+2;Lolita Lempicka;4;9;H;21;rarement
+2;Pleasures;7;3;H;21;rarement
+2;Pure Poison;2;7;H;21;rarement
+2;Shalimar;4;2;H;21;rarement
+3;Angel;5;4;F;23;chaque jour
+3;Aromatics Elixir;7;12;F;23;chaque jour
+3;Chanel n5;3;2;F;23;chaque jour
+3;Cinema;5;5;F;23;chaque jour
+3;Coco Madmoiselle ;4;6;F;23;chaque jour
+3;Jadore EP;2;3;F;23;chaque jour
+3;Jadore ET;2;1;F;23;chaque jour
+3;Linstant;5;9;F;23;chaque jour
+3;Lolita Lempicka;10;8;F;23;chaque jour
+3;Pleasures;8;11;F;23;chaque jour
+3;Pure Poison;5;10;F;23;chaque jour
+3;Shalimar;6;7;F;23;chaque jour
+4;Angel;2;9;F;24;chaque jour
+4;Aromatics Elixir;1;1;F;24;chaque jour
+4;Chanel n5;1;11;F;24;chaque jour
+4;Cinema;6;8;F;24;chaque jour
+4;Coco Madmoiselle ;6;7;F;24;chaque jour
+4;Jadore EP;10;10;F;24;chaque jour
+4;Jadore ET;8;12;F;24;chaque jour
+4;Linstant;5;4;F;24;chaque jour
+4;Lolita Lempicka;5;5;F;24;chaque jour
+4;Pleasures;6;2;F;24;chaque jour
+4;Pure Poison;1;3;F;24;chaque jour
+4;Shalimar;3;6;F;24;chaque jour
+5;Angel;3;6;F;22;chaque jour
+5;Aromatics Elixir;1;11;F;22;chaque jour
+5;Chanel n5;2;4;F;22;chaque jour
+5;Cinema;9;3;F;22;chaque jour
+5;Coco Madmoiselle ;9;8;F;22;chaque jour
+5;Jadore EP;9;1;F;22;chaque jour
+5;Jadore ET;9;2;F;22;chaque jour
+5;Linstant;6;7;F;22;chaque jour
+5;Lolita Lempicka;9;10;F;22;chaque jour
+5;Pleasures;8;9;F;22;chaque jour
+5;Pure Poison;4;12;F;35;chaque jour
+5;Shalimar;2;5;F;22;chaque jour
+6;Angel;10;11;F;35;chaque jour
+6;Aromatics Elixir;2;3;F;35;chaque jour
+6;Chanel n5;1;12;F;35;chaque jour
+6;Cinema;7;6;F;35;chaque jour
+6;Coco Madmoiselle ;3;9;F;35;chaque jour
+6;Jadore EP;9;8;F;35;chaque jour
+6;Jadore ET;9;10;F;35;chaque jour
+6;Linstant;3;2;F;35;chaque jour
+6;Lolita Lempicka;7;7;F;35;chaque jour
+6;Pleasures;7;1;F;35;chaque jour
+6;Pure Poison;9;5;F;35;chaque jour
+6;Shalimar;2;4;F;35;chaque jour
+7;Angel;1;3;H;26;régulièrement
+7;Aromatics Elixir;1;6;H;26;régulièrement
+7;Chanel n5;3;5;H;26;régulièrement
+7;Cinema;5;11;H;26;régulièrement
+7;Coco Madmoiselle ;3;1;H;26;régulièrement
+7;Jadore EP;3;9;H;26;régulièrement
+7;Jadore ET;3;7;H;26;régulièrement
+7;Linstant;5;10;H;26;régulièrement
+7;Lolita Lempicka;7;2;H;26;régulièrement
+7;Pleasures;9;8;H;26;régulièrement
+7;Pure Poison;9;4;H;26;régulièrement
+7;Shalimar;7;12;H;26;régulièrement
+8;Angel;2;10;F;22;rarement
+8;Aromatics Elixir;1;7;F;22;rarement
+8;Chanel n5;1;8;F;22;rarement
+8;Cinema;8;2;F;22;rarement
+8;Coco Madmoiselle ;8;12;F;22;rarement
+8;Jadore EP;7;4;F;22;rarement
+8;Jadore ET;7;6;F;22;rarement
+8;Linstant;6;3;F;22;rarement
+8;Lolita Lempicka;3;11;F;22;rarement
+8;Pleasures;7;5;F;22;rarement
+8;Pure Poison;6;9;F;22;rarement
+8;Shalimar;2;1;F;22;rarement
+9;Angel;6;8;H;22;rarement
+9;Aromatics Elixir;1;9;H;22;rarement
+9;Chanel n5;2;6;H;22;rarement
+9;Cinema;2;1;H;22;rarement
+9;Coco Madmoiselle ;7;10;H;22;rarement
+9;Jadore EP;5;2;H;22;rarement
+9;Jadore ET;8;4;H;22;rarement
+9;Linstant;2;5;H;22;rarement
+9;Lolita Lempicka;7;12;H;22;rarement
+9;Pleasures;4;7;H;22;rarement
+9;Pure Poison;6;11;H;22;rarement
+9;Shalimar;1;3;H;22;rarement
+10;Angel;3;2;H;22;rarement
+10;Aromatics Elixir;8;10;H;22;rarement
+10;Chanel n5;9;1;H;22;rarement
+10;Cinema;7;7;H;22;rarement
+10;Coco Madmoiselle ;3;4;H;22;rarement
+10;Jadore EP;3;5;H;22;rarement
+10;Jadore ET;4;3;H;22;rarement
+10;Linstant;7;11;H;22;rarement
+10;Lolita Lempicka;4;9;H;22;rarement
+10;Pleasures;4;12;H;22;rarement
+10;Pure Poison;8;8;H;22;rarement
+10;Shalimar;7;6;H;22;rarement
+11;Angel;6;4;F;22;régulièrement
+11;Aromatics Elixir;7;12;F;22;régulièrement
+11;Chanel n5;4;2;F;22;régulièrement
+11;Cinema;7;5;F;22;régulièrement
+11;Coco Madmoiselle ;8;6;F;22;régulièrement
+11;Jadore EP;7;3;F;22;régulièrement
+11;Jadore ET;6;1;F;22;régulièrement
+11;Linstant;3;9;F;22;régulièrement
+11;Lolita Lempicka;6;8;F;22;régulièrement
+11;Pleasures;1;11;F;22;régulièrement
+11;Pure Poison;7;10;F;22;régulièrement
+11;Shalimar;4;7;F;22;régulièrement
+12;Angel;1;5;F;18;chaque jour
+12;Aromatics Elixir;1;4;F;18;chaque jour
+12;Chanel n5;1;7;F;18;chaque jour
+12;Cinema;5;12;F;18;chaque jour
+12;Coco Madmoiselle ;4;3;F;18;chaque jour
+12;Jadore EP;5;11;F;18;chaque jour
+12;Jadore ET;5;9;F;18;chaque jour
+12;Linstant;1;8;F;18;chaque jour
+12;Lolita Lempicka;6;1;F;18;chaque jour
+12;Pleasures;6;6;F;18;chaque jour
+12;Pure Poison;4;2;F;18;chaque jour
+12;Shalimar;5;10;F;18;chaque jour
+13;Angel;1;2;H;19;rarement
+13;Aromatics Elixir;4;10;H;19;rarement
+13;Chanel n5;4;1;H;19;rarement
+13;Cinema;7;7;H;19;rarement
+13;Coco Madmoiselle ;7;4;H;19;rarement
+13;Jadore EP;4;5;H;19;rarement
+13;Jadore ET;5;3;H;19;rarement
+13;Linstant;6;11;H;19;rarement
+13;Lolita Lempicka;3;9;H;19;rarement
+13;Pleasures;8;12;H;19;rarement
+13;Pure Poison;8;8;H;19;rarement
+13;Shalimar;5;6;H;19;rarement
+14;Angel;2;11;H;18;régulièrement
+14;Aromatics Elixir;5;3;H;18;régulièrement
+14;Chanel n5;2;12;H;18;régulièrement
+14;Cinema;4;6;H;18;régulièrement
+14;Coco Madmoiselle ;3;9;H;18;régulièrement
+14;Jadore EP;3;8;H;18;régulièrement
+14;Jadore ET;5;10;H;18;régulièrement
+14;Linstant;7;2;H;18;régulièrement
+14;Lolita Lempicka;6;7;H;18;régulièrement
+14;Pleasures;4;1;H;18;régulièrement
+14;Pure Poison;7;5;H;18;régulièrement
+14;Shalimar;6;4;H;18;régulièrement
+15;Angel;1;9;F;19;chaque jour
+15;Aromatics Elixir;1;1;F;19;chaque jour
+15;Chanel n5;1;11;F;19;chaque jour
+15;Cinema;9;8;F;19;chaque jour
+15;Coco Madmoiselle ;3;7;F;19;chaque jour
+15;Jadore EP;8;10;F;19;chaque jour
+15;Jadore ET;3;12;F;19;chaque jour
+15;Linstant;5;4;F;19;chaque jour
+15;Lolita Lempicka;10;5;F;19;chaque jour
+15;Pleasures;6;2;F;19;chaque jour
+15;Pure Poison;7;3;F;19;chaque jour
+15;Shalimar;2;6;F;19;chaque jour
+16;Angel;4;8;H;20;chaque jour
+16;Aromatics Elixir;5;9;H;20;chaque jour
+16;Chanel n5;3;6;H;20;chaque jour
+16;Cinema;6;1;H;20;chaque jour
+16;Coco Madmoiselle ;7;10;H;20;chaque jour
+16;Jadore EP;6;2;H;20;chaque jour
+16;Jadore ET;5;4;H;20;chaque jour
+16;Linstant;6;5;H;20;chaque jour
+16;Lolita Lempicka;8;12;H;20;chaque jour
+16;Pleasures;7;7;H;20;chaque jour
+16;Pure Poison;8;11;H;20;chaque jour
+16;Shalimar;4;3;H;20;chaque jour
+17;Angel;5;6;F;20;régulièrement
+17;Aromatics Elixir;1;11;F;20;régulièrement
+17;Chanel n5;3;4;F;20;régulièrement
+17;Cinema;9;3;F;20;régulièrement
+17;Coco Madmoiselle ;7;8;F;20;régulièrement
+17;Jadore EP;10;1;F;20;régulièrement
+17;Jadore ET;5;2;F;20;régulièrement
+17;Linstant;9;7;F;20;régulièrement
+17;Lolita Lempicka;8;10;F;20;régulièrement
+17;Pleasures;1;9;F;20;régulièrement
+17;Pure Poison;4;12;F;20;régulièrement
+17;Shalimar;5;5;F;20;régulièrement
+18;Angel;2;10;F;19;chaque jour
+18;Aromatics Elixir;1;7;F;19;chaque jour
+18;Chanel n5;2;8;F;19;chaque jour
+18;Cinema;8;2;F;19;chaque jour
+18;Coco Madmoiselle ;4;12;F;19;chaque jour
+18;Jadore EP;6;4;F;19;chaque jour
+18;Jadore ET;5;6;F;19;chaque jour
+18;Linstant;9;3;F;19;chaque jour
+18;Lolita Lempicka;9;11;F;19;chaque jour
+18;Pleasures;5;5;F;19;chaque jour
+18;Pure Poison;8;9;F;19;chaque jour
+18;Shalimar;3;1;F;19;chaque jour
+19;Angel;2;1;H;19;rarement
+19;Aromatics Elixir;2;8;H;19;rarement
+19;Chanel n5;3;3;H;19;rarement
+19;Cinema;7;9;H;19;rarement
+19;Coco Madmoiselle ;5;2;H;19;rarement
+19;Jadore EP;6;7;H;19;rarement
+19;Jadore ET;5;5;H;19;rarement
+19;Linstant;3;12;H;19;rarement
+19;Lolita Lempicka;5;4;H;19;rarement
+19;Pleasures;5;10;H;19;rarement
+19;Pure Poison;6;6;H;19;rarement
+19;Shalimar;2;11;H;19;rarement
+20;Angel;1;6;F;19;chaque jour
+20;Aromatics Elixir;1;11;F;19;chaque jour
+20;Chanel n5;7;4;F;19;chaque jour
+20;Cinema;10;3;F;19;chaque jour
+20;Coco Madmoiselle ;7;8;F;19;chaque jour
+20;Jadore EP;10;1;F;19;chaque jour
+20;Jadore ET;9;2;F;19;chaque jour
+20;Linstant;5;7;F;19;chaque jour
+20;Lolita Lempicka;10;10;F;19;chaque jour
+20;Pleasures;6;9;F;19;chaque jour
+20;Pure Poison;4;12;F;19;chaque jour
+20;Shalimar;2;5;F;19;chaque jour
+21;Angel;1;9;F;20;rarement
+21;Aromatics Elixir;4;1;F;20;rarement
+21;Chanel n5;4;11;F;20;rarement
+21;Cinema;2;8;F;20;rarement
+21;Coco Madmoiselle ;6;7;F;20;rarement
+21;Jadore EP;7;10;F;20;rarement
+21;Jadore ET;5;12;F;19;chaque jour
+21;Linstant;4;4;F;20;rarement
+21;Lolita Lempicka;2;5;F;20;rarement
+21;Pleasures;5;2;F;20;rarement
+21;Pure Poison;8;3;F;20;rarement
+21;Shalimar;1;6;F;20;rarement
+22;Angel;3;11;F;19;chaque jour
+22;Aromatics Elixir;1;3;F;19;chaque jour
+22;Chanel n5;1;12;F;19;chaque jour
+22;Cinema;10;6;F;19;chaque jour
+22;Coco Madmoiselle ;6;9;F;19;chaque jour
+22;Jadore EP;6;8;F;19;chaque jour
+22;Jadore ET;5;10;F;19;chaque jour
+22;Linstant;6;2;F;19;chaque jour
+22;Lolita Lempicka;8;7;F;19;chaque jour
+22;Pleasures;7;1;F;19;chaque jour
+22;Pure Poison;5;5;F;19;chaque jour
+22;Shalimar;1;4;F;19;chaque jour
+23;Angel;7;10;F;21;rarement
+23;Aromatics Elixir;5;7;F;21;rarement
+23;Chanel n5;1;8;F;21;rarement
+23;Cinema;7;2;F;21;rarement
+23;Coco Madmoiselle ;3;12;F;21;rarement
+23;Jadore EP;9;4;F;21;rarement
+23;Jadore ET;5;6;F;21;rarement
+23;Linstant;8;3;F;21;rarement
+23;Lolita Lempicka;4;11;F;21;rarement
+23;Pleasures;6;5;F;21;rarement
+23;Pure Poison;7;9;F;21;rarement
+23;Shalimar;7;1;F;21;rarement
+24;Angel;4;7;F;22;régulièrement
+24;Aromatics Elixir;1;2;F;22;régulièrement
+24;Chanel n5;2;9;F;22;régulièrement
+24;Cinema;6;10;F;22;régulièrement
+24;Coco Madmoiselle ;3;5;F;22;régulièrement
+24;Jadore EP;5;12;F;22;régulièrement
+24;Jadore ET;5;11;F;22;régulièrement
+24;Linstant;3;6;F;22;régulièrement
+24;Lolita Lempicka;7;3;F;22;régulièrement
+24;Pleasures;2;4;F;22;régulièrement
+24;Pure Poison;3;1;F;22;régulièrement
+24;Shalimar;1;8;F;22;régulièrement
+25;Angel;9;3;F;22;chaque jour
+25;Aromatics Elixir;2;6;F;22;chaque jour
+25;Chanel n5;1;5;F;22;chaque jour
+25;Cinema;9;11;F;22;chaque jour
+25;Coco Madmoiselle ;5;1;F;22;chaque jour
+25;Jadore EP;10;9;F;22;chaque jour
+25;Jadore ET;9;7;F;22;chaque jour
+25;Linstant;10;10;F;22;chaque jour
+25;Lolita Lempicka;9;2;F;22;chaque jour
+25;Pleasures;10;8;F;22;chaque jour
+25;Pure Poison;10;4;F;22;chaque jour
+25;Shalimar;3;12;F;22;chaque jour
+26;Angel;2;7;H;26;rarement
+26;Aromatics Elixir;3;2;H;26;rarement
+26;Chanel n5;1;9;H;26;rarement
+26;Cinema;4;10;H;26;rarement
+26;Coco Madmoiselle ;8;5;H;26;rarement
+26;Jadore EP;3;12;H;26;rarement
+26;Jadore ET;8;11;H;26;rarement
+26;Linstant;9;6;H;26;rarement
+26;Lolita Lempicka;7;3;H;26;rarement
+26;Pleasures;5;4;H;26;rarement
+26;Pure Poison;6;1;H;26;rarement
+26;Shalimar;6;8;H;26;rarement
+27;Angel;2;5;F;20;régulièrement
+27;Aromatics Elixir;4;4;F;20;régulièrement
+27;Chanel n5;3;7;F;20;régulièrement
+27;Cinema;5;12;F;20;régulièrement
+27;Coco Madmoiselle ;7;3;F;20;régulièrement
+27;Jadore EP;7;11;F;20;régulièrement
+27;Jadore ET;6;9;F;20;régulièrement
+27;Linstant;4;8;F;20;régulièrement
+27;Lolita Lempicka;6;1;F;20;régulièrement
+27;Pleasures;7;6;F;20;régulièrement
+27;Pure Poison;8;2;F;20;régulièrement
+27;Shalimar;3;10;F;20;régulièrement
+28;Angel;5;2;F;19;rarement
+28;Aromatics Elixir;1;10;F;19;rarement
+28;Chanel n5;1;1;F;19;rarement
+28;Cinema;9;7;F;19;rarement
+28;Coco Madmoiselle ;9;4;F;19;rarement
+28;Jadore EP;9;5;F;19;rarement
+28;Jadore ET;10;3;F;19;rarement
+28;Linstant;10;11;F;19;rarement
+28;Lolita Lempicka;8;9;F;19;rarement
+28;Pleasures;10;12;F;19;rarement
+28;Pure Poison;8;8;F;19;rarement
+28;Shalimar;7;6;F;19;rarement
+29;Angel;2;6;F;19;chaque jour
+29;Aromatics Elixir;5;11;F;19;chaque jour
+29;Chanel n5;3;4;F;19;chaque jour
+29;Cinema;7;3;F;19;chaque jour
+29;Coco Madmoiselle ;7;8;F;19;chaque jour
+29;Jadore EP;5;1;F;19;chaque jour
+29;Jadore ET;6;2;F;19;chaque jour
+29;Linstant;3;7;F;19;chaque jour
+29;Lolita Lempicka;4;10;F;19;chaque jour
+29;Pleasures;5;9;F;19;chaque jour
+29;Pure Poison;6;12;F;19;chaque jour
+29;Shalimar;2;5;F;19;chaque jour
+30;Angel;9;4;F;19;rarement
+30;Aromatics Elixir;6;12;F;19;rarement
+30;Chanel n5;3;2;F;19;rarement
+30;Cinema;5;5;F;19;rarement
+30;Coco Madmoiselle ;7;6;F;19;rarement
+30;Jadore EP;5;3;F;19;rarement
+30;Jadore ET;4;1;F;19;rarement
+30;Linstant;8;9;F;19;rarement
+30;Lolita Lempicka;9;8;F;19;rarement
+30;Pleasures;6;11;F;19;rarement
+30;Pure Poison;7;10;F;19;rarement
+30;Shalimar;9;7;F;19;rarement
+31;Angel;4;7;F;19;rarement
+31;Aromatics Elixir;1;2;F;19;rarement
+31;Chanel n5;3;9;F;19;rarement
+31;Cinema;8;10;F;19;rarement
+31;Coco Madmoiselle ;8;5;F;19;rarement
+31;Jadore EP;6;12;F;19;rarement
+31;Jadore ET;6;11;F;19;rarement
+31;Linstant;3;6;F;19;rarement
+31;Lolita Lempicka;6;3;F;19;rarement
+31;Pleasures;5;4;F;19;rarement
+31;Pure Poison;5;1;F;19;rarement
+31;Shalimar;4;8;F;19;rarement
+32;Angel;4;5;H;28;jamais
+32;Aromatics Elixir;1;4;H;28;jamais
+32;Chanel n5;1;7;H;28;jamais
+32;Cinema;8;12;H;28;jamais
+32;Coco Madmoiselle ;4;3;H;28;jamais
+32;Jadore EP;9;11;H;28;jamais
+32;Jadore ET;3;9;H;28;jamais
+32;Linstant;6;8;H;28;jamais
+32;Lolita Lempicka;8;1;H;28;jamais
+32;Pleasures;1;6;H;28;jamais
+32;Pure Poison;5;2;H;28;jamais
+32;Shalimar;2;10;H;28;jamais
+33;Angel;3;9;F;25;jamais
+33;Aromatics Elixir;1;1;F;25;jamais
+33;Chanel n5;1;11;F;25;jamais
+33;Cinema;7;8;F;25;jamais
+33;Coco Madmoiselle ;7;7;F;25;jamais
+33;Jadore EP;6;10;F;25;jamais
+33;Jadore ET;7;12;F;25;jamais
+33;Linstant;7;4;F;25;jamais
+33;Lolita Lempicka;3;5;F;25;jamais
+33;Pleasures;6;2;F;25;jamais
+33;Pure Poison;6;3;F;25;jamais
+33;Shalimar;1;6;F;25;jamais
+34;Angel;2;7;F;23;chaque jour
+34;Aromatics Elixir;1;2;F;23;chaque jour
+34;Chanel n5;1;9;F;23;chaque jour
+34;Cinema;9;10;F;23;chaque jour
+34;Coco Madmoiselle ;10;5;F;23;chaque jour
+34;Jadore EP;10;12;F;23;chaque jour
+34;Jadore ET;9;11;F;23;chaque jour
+34;Linstant;3;6;F;23;chaque jour
+34;Lolita Lempicka;9;3;F;23;chaque jour
+34;Pleasures;8;4;F;23;chaque jour
+34;Pure Poison;8;1;F;23;chaque jour
+34;Shalimar;1;8;F;23;chaque jour
+35;Angel;5;3;F;25;chaque jour
+35;Aromatics Elixir;1;6;F;25;chaque jour
+35;Chanel n5;1;5;F;25;chaque jour
+35;Cinema;6;11;F;25;chaque jour
+35;Coco Madmoiselle ;7;1;F;25;chaque jour
+35;Jadore EP;9;9;F;25;chaque jour
+35;Jadore ET;8;7;F;25;chaque jour
+35;Linstant;7;10;F;25;chaque jour
+35;Lolita Lempicka;6;2;F;25;chaque jour
+35;Pleasures;8;8;F;25;chaque jour
+35;Pure Poison;6;4;F;25;chaque jour
+35;Shalimar;4;12;F;25;chaque jour
+36;Angel;2;5;F;27;chaque jour
+36;Aromatics Elixir;1;4;F;27;chaque jour
+36;Chanel n5;1;7;F;27;chaque jour
+36;Cinema;3;12;F;27;chaque jour
+36;Coco Madmoiselle ;5;3;F;27;chaque jour
+36;Jadore EP;7;11;F;27;chaque jour
+36;Jadore ET;7;9;F;27;chaque jour
+36;Linstant;5;8;F;27;chaque jour
+36;Lolita Lempicka;3;1;F;27;chaque jour
+36;Pleasures;1;6;F;27;chaque jour
+36;Pure Poison;5;2;F;27;chaque jour
+36;Shalimar;2;10;F;27;chaque jour
+37;Angel;3;3;H;27;régulièrement
+37;Aromatics Elixir;6;6;H;27;régulièrement
+37;Chanel n5;2;5;H;27;régulièrement
+37;Cinema;5;11;H;27;régulièrement
+37;Coco Madmoiselle ;7;1;H;27;régulièrement
+37;Jadore EP;8;9;H;27;régulièrement
+37;Jadore ET;9;7;H;27;régulièrement
+37;Linstant;7;10;H;27;régulièrement
+37;Lolita Lempicka;8;2;H;27;régulièrement
+37;Pleasures;4;8;H;27;régulièrement
+37;Pure Poison;5;4;H;27;régulièrement
+37;Shalimar;2;12;H;27;régulièrement
+38;Angel;3;10;H;30;régulièrement
+38;Aromatics Elixir;1;7;H;30;régulièrement
+38;Chanel n5;1;8;H;30;régulièrement
+38;Cinema;6;2;H;30;régulièrement
+38;Coco Madmoiselle ;6;12;H;30;régulièrement
+38;Jadore EP;7;4;H;30;régulièrement
+38;Jadore ET;7;6;H;30;régulièrement
+38;Linstant;6;3;H;30;régulièrement
+38;Lolita Lempicka;4;11;H;30;régulièrement
+38;Pleasures;7;5;H;30;régulièrement
+38;Pure Poison;1;9;H;30;régulièrement
+38;Shalimar;4;1;H;30;régulièrement
+39;Angel;1;2;F;21;chaque jour
+39;Aromatics Elixir;1;10;F;21;chaque jour
+39;Chanel n5;1;1;F;21;chaque jour
+39;Cinema;3;7;F;21;chaque jour
+39;Coco Madmoiselle ;4;4;F;21;chaque jour
+39;Jadore EP;4;5;F;21;chaque jour
+39;Jadore ET;5;3;F;21;chaque jour
+39;Linstant;2;11;F;21;chaque jour
+39;Lolita Lempicka;5;9;F;21;chaque jour
+39;Pleasures;2;12;F;21;chaque jour
+39;Pure Poison;5;8;F;21;chaque jour
+39;Shalimar;1;6;F;21;chaque jour
+40;Angel;8;1;F;27;rarement
+40;Aromatics Elixir;1;8;F;27;rarement
+40;Chanel n5;1;3;F;27;rarement
+40;Cinema;7;9;F;27;rarement
+40;Coco Madmoiselle ;5;2;F;27;rarement
+40;Jadore EP;3;7;F;27;rarement
+40;Jadore ET;4;5;F;27;rarement
+40;Linstant;3;12;F;27;rarement
+40;Lolita Lempicka;7;4;F;27;rarement
+40;Pleasures;5;10;F;27;rarement
+40;Pure Poison;6;6;F;27;rarement
+40;Shalimar;2;11;F;27;rarement
+41;Angel;1;8;F;19;chaque jour
+41;Aromatics Elixir;2;9;F;19;chaque jour
+41;Chanel n5;2;6;F;19;chaque jour
+41;Cinema;1;1;F;19;chaque jour
+41;Coco Madmoiselle ;10;10;F;19;chaque jour
+41;Jadore EP;9;2;F;19;chaque jour
+41;Jadore ET;5;4;F;19;chaque jour
+41;Linstant;1;5;F;19;chaque jour
+41;Lolita Lempicka;2;12;F;19;chaque jour
+41;Pleasures;7;7;F;19;chaque jour
+41;Pure Poison;2;11;F;19;chaque jour
+41;Shalimar;1;3;F;19;chaque jour
+42;Angel;1;6;F;26;régulièrement
+42;Aromatics Elixir;1;11;F;26;régulièrement
+42;Chanel n5;1;4;F;26;régulièrement
+42;Cinema;9;3;F;26;régulièrement
+42;Coco Madmoiselle ;8;8;F;26;régulièrement
+42;Jadore EP;7;1;F;26;régulièrement
+42;Jadore ET;8;2;F;26;régulièrement
+42;Linstant;9;7;F;26;régulièrement
+42;Lolita Lempicka;9;10;F;26;régulièrement
+42;Pleasures;1;9;F;26;régulièrement
+42;Pure Poison;8;12;F;26;régulièrement
+42;Shalimar;1;5;F;26;régulièrement
+43;Angel;6;4;F;21;régulièrement
+43;Aromatics Elixir;1;12;F;21;régulièrement
+43;Chanel n5;1;2;F;21;régulièrement
+43;Cinema;1;5;F;21;régulièrement
+43;Coco Madmoiselle ;6;6;F;21;régulièrement
+43;Jadore EP;6;3;F;21;régulièrement
+43;Jadore ET;8;1;F;21;régulièrement
+43;Linstant;1;9;F;21;régulièrement
+43;Lolita Lempicka;7;8;F;21;régulièrement
+43;Pleasures;9;11;F;21;régulièrement
+43;Pure Poison;6;10;F;21;régulièrement
+43;Shalimar;1;7;F;21;régulièrement
+44;Angel;7;12;F;24;chaque jour
+44;Aromatics Elixir;1;5;F;24;chaque jour
+44;Chanel n5;1;10;F;24;chaque jour
+44;Cinema;5;4;F;24;chaque jour
+44;Coco Madmoiselle ;9;11;F;24;chaque jour
+44;Jadore EP;6;6;F;24;chaque jour
+44;Jadore ET;3;8;F;24;chaque jour
+44;Linstant;5;1;F;24;chaque jour
+44;Lolita Lempicka;4;9;F;24;chaque jour
+44;Pleasures;2;3;F;24;chaque jour
+44;Pure Poison;5;7;F;24;chaque jour
+44;Shalimar;1;2;F;24;chaque jour
+45;Angel;1;11;F;42;chaque jour
+45;Aromatics Elixir;1;3;F;42;chaque jour
+45;Chanel n5;1;12;F;42;chaque jour
+45;Cinema;3;6;F;42;chaque jour
+45;Coco Madmoiselle ;9;9;F;42;chaque jour
+45;Jadore EP;9;8;F;42;chaque jour
+45;Jadore ET;7;10;F;42;chaque jour
+45;Linstant;2;2;F;42;chaque jour
+45;Lolita Lempicka;3;7;F;42;chaque jour
+45;Pleasures;9;1;F;42;chaque jour
+45;Pure Poison;7;5;F;42;chaque jour
+45;Shalimar;1;4;F;42;chaque jour
+46;Angel;2;4;F;47;régulièrement
+46;Aromatics Elixir;1;12;F;47;régulièrement
+46;Chanel n5;3;2;F;47;régulièrement
+46;Cinema;7;5;F;47;régulièrement
+46;Coco Madmoiselle ;2;6;F;47;régulièrement
+46;Jadore EP;5;3;F;47;régulièrement
+46;Jadore ET;9;1;F;47;régulièrement
+46;Linstant;3;9;F;47;régulièrement
+46;Lolita Lempicka;3;8;F;47;régulièrement
+46;Pleasures;6;11;F;47;régulièrement
+46;Pure Poison;3;10;F;47;régulièrement
+46;Shalimar;2;7;F;47;régulièrement
+47;Angel;1;10;F;19;rarement
+47;Aromatics Elixir;1;7;F;19;rarement
+47;Chanel n5;3;8;F;19;rarement
+47;Cinema;4;2;F;19;rarement
+47;Coco Madmoiselle ;3;12;F;19;rarement
+47;Jadore EP;3;4;F;19;rarement
+47;Jadore ET;6;6;F;19;rarement
+47;Linstant;5;3;F;19;rarement
+47;Lolita Lempicka;2;11;F;19;rarement
+47;Pleasures;4;5;F;19;rarement
+47;Pure Poison;5;9;F;19;rarement
+47;Shalimar;1;1;F;19;rarement
+48;Angel;4;4;F;20;chaque jour
+48;Aromatics Elixir;1;12;F;20;chaque jour
+48;Chanel n5;2;2;F;20;chaque jour
+48;Cinema;9;5;F;20;chaque jour
+48;Coco Madmoiselle ;4;6;F;20;chaque jour
+48;Jadore EP;10;3;F;20;chaque jour
+48;Jadore ET;9;1;F;20;chaque jour
+48;Linstant;5;9;F;20;chaque jour
+48;Lolita Lempicka;8;8;F;20;chaque jour
+48;Pleasures;4;11;F;20;chaque jour
+48;Pure Poison;9;10;F;20;chaque jour
+48;Shalimar;1;7;F;20;chaque jour
+49;Angel;3;12;F;29;chaque jour
+49;Aromatics Elixir;1;5;F;29;chaque jour
+49;Chanel n5;1;10;F;29;chaque jour
+49;Cinema;9;4;F;29;chaque jour
+49;Coco Madmoiselle ;5;11;F;29;chaque jour
+49;Jadore EP;9;6;F;29;chaque jour
+49;Jadore ET;6;8;F;29;chaque jour
+49;Linstant;3;1;F;29;chaque jour
+49;Lolita Lempicka;9;9;F;29;chaque jour
+49;Pleasures;4;3;F;29;chaque jour
+49;Pure Poison;6;7;F;29;chaque jour
+49;Shalimar;1;2;F;29;chaque jour
+50;Angel;1;12;F;26;rarement
+50;Aromatics Elixir;1;5;F;26;rarement
+50;Chanel n5;1;10;F;26;rarement
+50;Cinema;7;4;F;26;rarement
+50;Coco Madmoiselle ;5;11;F;26;rarement
+50;Jadore EP;7;6;F;26;rarement
+50;Jadore ET;8;8;F;26;rarement
+50;Linstant;2;1;F;26;rarement
+50;Lolita Lempicka;5;9;F;26;rarement
+50;Pleasures;1;3;F;26;rarement
+50;Pure Poison;6;7;F;26;rarement
+50;Shalimar;1;2;F;26;rarement
+51;Angel;1;1;F;26;rarement
+51;Aromatics Elixir;1;8;F;26;rarement
+51;Chanel n5;3;3;F;26;rarement
+51;Cinema;3;9;F;26;rarement
+51;Coco Madmoiselle ;8;2;F;26;rarement
+51;Jadore EP;7;7;F;26;rarement
+51;Jadore ET;6;5;F;26;rarement
+51;Linstant;10;12;F;26;rarement
+51;Lolita Lempicka;2;4;F;26;rarement
+51;Pleasures;8;10;F;26;rarement
+51;Pure Poison;3;6;F;26;rarement
+51;Shalimar;7;11;F;26;rarement
+52;Angel;1;2;F;22;jamais
+52;Aromatics Elixir;1;10;F;22;jamais
+52;Chanel n5;2;1;F;22;jamais
+52;Cinema;7;7;F;22;jamais
+52;Coco Madmoiselle ;4;4;F;22;jamais
+52;Jadore EP;5;5;F;22;jamais
+52;Jadore ET;6;3;F;22;jamais
+52;Linstant;2;11;F;22;jamais
+52;Lolita Lempicka;3;9;F;22;jamais
+52;Pleasures;4;12;F;22;jamais
+52;Pure Poison;2;8;F;22;jamais
+52;Shalimar;1;6;F;22;jamais
+53;Angel;3;6;H;39;chaque jour
+53;Aromatics Elixir;1;11;H;39;chaque jour
+53;Chanel n5;1;4;H;39;chaque jour
+53;Cinema;8;3;H;39;chaque jour
+53;Coco Madmoiselle ;7;8;H;39;chaque jour
+53;Jadore EP;6;1;H;39;chaque jour
+53;Jadore ET;6;2;H;39;chaque jour
+53;Linstant;7;7;H;39;chaque jour
+53;Lolita Lempicka;5;10;H;39;chaque jour
+53;Pleasures;5;9;H;39;chaque jour
+53;Pure Poison;8;12;H;39;chaque jour
+53;Shalimar;2;5;H;39;chaque jour
+54;Angel;8;10;F;21;rarement
+54;Aromatics Elixir;2;7;F;21;rarement
+54;Chanel n5;1;8;F;21;rarement
+54;Cinema;8;2;F;21;rarement
+54;Coco Madmoiselle ;8;12;F;21;rarement
+54;Jadore EP;8;4;F;21;rarement
+54;Jadore ET;9;6;F;21;rarement
+54;Linstant;5;3;F;21;rarement
+54;Lolita Lempicka;8;11;F;21;rarement
+54;Pleasures;4;5;F;21;rarement
+54;Pure Poison;5;9;F;21;rarement
+54;Shalimar;4;1;F;21;rarement
+55;Angel;2;4;H;24;rarement
+55;Aromatics Elixir;1;12;H;24;rarement
+55;Chanel n5;1;2;H;24;rarement
+55;Cinema;5;5;H;24;rarement
+55;Coco Madmoiselle ;4;6;H;24;rarement
+55;Jadore EP;3;3;H;24;rarement
+55;Jadore ET;3;1;H;24;rarement
+55;Linstant;9;9;H;24;rarement
+55;Lolita Lempicka;8;8;H;24;rarement
+55;Pleasures;3;11;H;24;rarement
+55;Pure Poison;8;10;H;24;rarement
+55;Shalimar;2;7;H;24;rarement
+56;Angel;3;8;F;22;rarement
+56;Aromatics Elixir;3;9;F;22;rarement
+56;Chanel n5;2;6;F;22;rarement
+56;Cinema;7;1;F;22;rarement
+56;Coco Madmoiselle ;6;10;F;22;rarement
+56;Jadore EP;7;2;F;22;rarement
+56;Jadore ET;7;4;F;22;rarement
+56;Linstant;6;5;F;22;rarement
+56;Lolita Lempicka;7;12;F;22;rarement
+56;Pleasures;5;7;F;22;rarement
+56;Pure Poison;7;11;F;22;rarement
+56;Shalimar;6;3;F;22;rarement
+57;Angel;7;7;F;18;régulièrement
+57;Aromatics Elixir;1;2;F;18;régulièrement
+57;Chanel n5;5;9;F;18;régulièrement
+57;Cinema;7;10;F;18;régulièrement
+57;Coco Madmoiselle ;5;5;F;18;régulièrement
+57;Jadore EP;5;12;F;18;régulièrement
+57;Jadore ET;8;11;F;18;régulièrement
+57;Linstant;6;6;F;18;régulièrement
+57;Lolita Lempicka;9;3;F;18;régulièrement
+57;Pleasures;5;4;F;18;régulièrement
+57;Pure Poison;6;1;F;18;régulièrement
+57;Shalimar;2;8;F;18;régulièrement
+58;Angel;2;1;F;18;rarement
+58;Aromatics Elixir;3;8;F;18;rarement
+58;Chanel n5;4;3;F;18;rarement
+58;Cinema;4;9;F;18;rarement
+58;Coco Madmoiselle ;6;2;F;18;rarement
+58;Jadore EP;8;7;F;18;rarement
+58;Jadore ET;9;5;F;18;rarement
+58;Linstant;5;12;F;18;rarement
+58;Lolita Lempicka;4;4;F;18;rarement
+58;Pleasures;1;10;F;18;rarement
+58;Pure Poison;5;6;F;18;rarement
+58;Shalimar;6;11;F;18;rarement
+59;Angel;8;12;H;18;chaque jour
+59;Aromatics Elixir;6;5;H;18;chaque jour
+59;Chanel n5;7;10;H;18;chaque jour
+59;Cinema;6;4;H;18;chaque jour
+59;Coco Madmoiselle ;5;11;H;18;chaque jour
+59;Jadore EP;6;6;H;18;chaque jour
+59;Jadore ET;6;8;H;18;chaque jour
+59;Linstant;7;1;H;18;chaque jour
+59;Lolita Lempicka;8;9;H;18;chaque jour
+59;Pleasures;6;3;H;18;chaque jour
+59;Pure Poison;6;7;H;18;chaque jour
+59;Shalimar;10;2;H;18;chaque jour
+60;Angel;5;9;F;18;rarement
+60;Aromatics Elixir;1;1;F;18;rarement
+60;Chanel n5;1;11;F;18;rarement
+60;Cinema;6;8;F;18;rarement
+60;Coco Madmoiselle ;6;7;F;18;rarement
+60;Jadore EP;7;10;F;18;rarement
+60;Jadore ET;8;12;F;18;rarement
+60;Linstant;7;4;F;18;rarement
+60;Lolita Lempicka;8;5;F;18;rarement
+60;Pleasures;5;2;F;18;rarement
+60;Pure Poison;7;3;F;18;rarement
+60;Shalimar;3;6;F;18;rarement
+61;Angel;5;6;F;19;rarement
+61;Aromatics Elixir;4;11;F;19;rarement
+61;Chanel n5;2;4;F;19;rarement
+61;Cinema;7;3;F;19;rarement
+61;Coco Madmoiselle ;7;8;F;19;rarement
+61;Jadore EP;8;1;F;19;rarement
+61;Jadore ET;8;2;F;19;rarement
+61;Linstant;7;7;F;19;rarement
+61;Lolita Lempicka;7;10;F;19;rarement
+61;Pleasures;7;9;F;19;rarement
+61;Pure Poison;7;12;F;19;rarement
+61;Shalimar;5;5;F;19;rarement
+62;Angel;2;3;F;19;rarement
+62;Aromatics Elixir;9;6;F;19;rarement
+62;Chanel n5;5;5;F;19;rarement
+62;Cinema;3;11;F;19;rarement
+62;Coco Madmoiselle ;3;1;F;19;rarement
+62;Jadore EP;4;9;F;19;rarement
+62;Jadore ET;2;7;F;19;rarement
+62;Linstant;2;10;F;19;rarement
+62;Lolita Lempicka;3;2;F;19;rarement
+62;Pleasures;4;8;F;19;rarement
+62;Pure Poison;10;4;F;19;rarement
+62;Shalimar;5;12;F;19;rarement
+63;Angel;9;10;F;18;régulièrement
+63;Aromatics Elixir;2;7;F;18;régulièrement
+63;Chanel n5;4;8;F;18;régulièrement
+63;Cinema;9;2;F;18;régulièrement
+63;Coco Madmoiselle ;3;12;F;18;régulièrement
+63;Jadore EP;5;4;F;18;régulièrement
+63;Jadore ET;8;6;F;18;régulièrement
+63;Linstant;4;3;F;18;régulièrement
+63;Lolita Lempicka;9;11;F;18;régulièrement
+63;Pleasures;3;5;F;18;régulièrement
+63;Pure Poison;1;9;F;18;régulièrement
+63;Shalimar;6;1;F;18;régulièrement
+64;Angel;1;5;H;58;rarement
+64;Aromatics Elixir;4;4;H;58;rarement
+64;Chanel n5;3;7;H;58;rarement
+64;Cinema;1;12;H;58;rarement
+64;Coco Madmoiselle ;3;3;H;58;rarement
+64;Jadore EP;2;11;H;58;rarement
+64;Jadore ET;2;9;H;58;rarement
+64;Linstant;2;8;H;58;rarement
+64;Lolita Lempicka;1;1;H;58;rarement
+64;Pleasures;2;6;H;58;rarement
+64;Pure Poison;7;2;H;58;rarement
+64;Shalimar;5;10;H;58;rarement
+65;Angel;1;7;H;22;chaque jour
+65;Aromatics Elixir;3;2;H;22;chaque jour
+65;Chanel n5;3;9;H;22;chaque jour
+65;Cinema;7;10;H;22;chaque jour
+65;Coco Madmoiselle ;3;5;H;22;chaque jour
+65;Jadore EP;6;12;H;22;chaque jour
+65;Jadore ET;5;11;H;22;chaque jour
+65;Linstant;3;6;H;22;chaque jour
+65;Lolita Lempicka;4;3;H;22;chaque jour
+65;Pleasures;4;4;H;22;chaque jour
+65;Pure Poison;8;1;H;22;chaque jour
+65;Shalimar;4;8;H;22;chaque jour
+66;Angel;1;2;F;19;rarement
+66;Aromatics Elixir;1;10;F;19;rarement
+66;Chanel n5;2;1;F;19;rarement
+66;Cinema;7;7;F;19;rarement
+66;Coco Madmoiselle ;7;4;F;19;rarement
+66;Jadore EP;6;5;F;19;rarement
+66;Jadore ET;8;3;F;19;rarement
+66;Linstant;6;11;F;19;rarement
+66;Lolita Lempicka;7;6;F;19;rarement
+66;Pleasures;8;12;F;19;rarement
+66;Pure Poison;3;8;F;19;rarement
+66;Shalimar;1;9;F;19;rarement
+67;Angel;2;8;H;22;régulièrement
+67;Aromatics Elixir;1;9;H;22;régulièrement
+67;Chanel n5;1;6;H;22;régulièrement
+67;Cinema;4;1;H;22;régulièrement
+67;Coco Madmoiselle ;3;10;H;22;régulièrement
+67;Jadore EP;6;2;H;22;régulièrement
+67;Jadore ET;5;4;H;22;régulièrement
+67;Linstant;6;5;H;22;régulièrement
+67;Lolita Lempicka;3;12;H;22;régulièrement
+67;Pleasures;6;7;H;22;régulièrement
+67;Pure Poison;3;11;H;22;régulièrement
+67;Shalimar;1;3;H;22;régulièrement
+68;Angel;3;5;H;21;régulièrement
+68;Aromatics Elixir;3;4;H;21;régulièrement
+68;Chanel n5;5;7;H;21;régulièrement
+68;Cinema;7;12;H;21;régulièrement
+68;Coco Madmoiselle ;7;3;H;21;régulièrement
+68;Jadore EP;6;11;H;21;régulièrement
+68;Jadore ET;6;9;H;21;régulièrement
+68;Linstant;8;8;H;21;régulièrement
+68;Lolita Lempicka;4;1;H;21;régulièrement
+68;Pleasures;5;6;H;21;régulièrement
+68;Pure Poison;6;2;H;21;régulièrement
+68;Shalimar;4;10;H;21;régulièrement
+69;Angel;3;5;F;19;rarement
+69;Aromatics Elixir;1;4;F;19;rarement
+69;Chanel n5;5;7;F;19;rarement
+69;Cinema;3;12;F;19;rarement
+69;Coco Madmoiselle ;4;3;F;19;rarement
+69;Jadore EP;8;11;F;19;rarement
+69;Jadore ET;9;9;F;19;rarement
+69;Linstant;3;8;F;19;rarement
+69;Lolita Lempicka;5;1;F;19;rarement
+69;Pleasures;8;6;F;19;rarement
+69;Pure Poison;5;2;F;19;rarement
+69;Shalimar;4;10;F;19;rarement
+70;Angel;5;8;H;58;chaque jour
+70;Aromatics Elixir;6;9;H;58;chaque jour
+70;Chanel n5;9;6;H;58;chaque jour
+70;Cinema;3;1;H;58;chaque jour
+70;Coco Madmoiselle ;1;10;H;58;chaque jour
+70;Jadore EP;2;2;H;58;chaque jour
+70;Jadore ET;2;4;H;58;chaque jour
+70;Linstant;2;5;H;58;chaque jour
+70;Lolita Lempicka;1;12;H;58;chaque jour
+70;Pleasures;3;7;H;58;chaque jour
+70;Pure Poison;1;11;H;58;chaque jour
+70;Shalimar;6;3;H;58;chaque jour
+71;Angel;9;11;F;20;chaque jour
+71;Aromatics Elixir;1;3;F;20;chaque jour
+71;Chanel n5;1;12;F;20;chaque jour
+71;Cinema;7;6;F;20;chaque jour
+71;Coco Madmoiselle ;4;9;F;20;chaque jour
+71;Jadore EP;2;8;F;20;chaque jour
+71;Jadore ET;3;10;F;20;chaque jour
+71;Linstant;4;2;F;20;chaque jour
+71;Lolita Lempicka;9;7;F;20;chaque jour
+71;Pleasures;3;1;F;20;chaque jour
+71;Pure Poison;7;5;F;20;chaque jour
+71;Shalimar;1;4;F;20;chaque jour
+72;Angel;2;5;F;22;régulièrement
+72;Aromatics Elixir;3;4;F;22;régulièrement
+72;Chanel n5;1;7;F;22;régulièrement
+72;Cinema;5;12;F;22;régulièrement
+72;Coco Madmoiselle ;8;3;F;22;régulièrement
+72;Jadore EP;9;11;F;22;régulièrement
+72;Jadore ET;6;9;F;22;régulièrement
+72;Linstant;7;8;F;22;régulièrement
+72;Lolita Lempicka;6;1;F;22;régulièrement
+72;Pleasures;4;6;F;22;régulièrement
+72;Pure Poison;5;2;F;22;régulièrement
+72;Shalimar;1;10;F;22;régulièrement
+73;Angel;2;9;F;20;régulièrement
+73;Aromatics Elixir;1;1;F;20;régulièrement
+73;Chanel n5;1;11;F;20;régulièrement
+73;Cinema;8;8;F;20;régulièrement
+73;Coco Madmoiselle ;7;7;F;20;régulièrement
+73;Jadore EP;9;10;F;20;régulièrement
+73;Jadore ET;9;12;F;20;régulièrement
+73;Linstant;4;4;F;20;régulièrement
+73;Lolita Lempicka;10;5;F;20;régulièrement
+73;Pleasures;6;2;F;20;régulièrement
+73;Pure Poison;8;3;F;20;régulièrement
+73;Shalimar;1;6;F;20;régulièrement
+74;Angel;1;2;H;19;jamais
+74;Aromatics Elixir;1;10;H;19;jamais
+74;Chanel n5;1;1;H;19;jamais
+74;Cinema;4;7;H;19;jamais
+74;Coco Madmoiselle ;8;4;H;19;jamais
+74;Jadore EP;9;5;H;19;jamais
+74;Jadore ET;6;3;H;19;jamais
+74;Linstant;4;11;H;19;jamais
+74;Lolita Lempicka;2;9;H;19;jamais
+74;Pleasures;10;12;H;19;jamais
+74;Pure Poison;6;8;H;19;jamais
+74;Shalimar;9;6;H;19;jamais
+75;Angel;5;6;F;21;chaque jour
+75;Aromatics Elixir;1;11;F;21;chaque jour
+75;Chanel n5;2;4;F;21;chaque jour
+75;Cinema;6;3;F;21;chaque jour
+75;Coco Madmoiselle ;5;8;F;21;chaque jour
+75;Jadore EP;6;1;F;21;chaque jour
+75;Jadore ET;7;2;F;21;chaque jour
+75;Linstant;7;7;F;21;chaque jour
+75;Lolita Lempicka;8;10;F;21;chaque jour
+75;Pleasures;4;9;F;21;chaque jour
+75;Pure Poison;2;12;F;21;chaque jour
+75;Shalimar;1;5;F;21;chaque jour
+76;Angel;3;9;F;20;chaque jour
+76;Aromatics Elixir;5;1;F;20;chaque jour
+76;Chanel n5;5;11;F;20;chaque jour
+76;Cinema;3;8;F;20;chaque jour
+76;Coco Madmoiselle ;4;7;F;20;chaque jour
+76;Jadore EP;8;10;F;20;chaque jour
+76;Jadore ET;7;12;F;20;chaque jour
+76;Linstant;6;4;F;20;chaque jour
+76;Lolita Lempicka;5;5;F;20;chaque jour
+76;Pleasures;7;2;F;20;chaque jour
+76;Pure Poison;7;3;F;20;chaque jour
+76;Shalimar;3;6;F;20;chaque jour
+77;Angel;9;1;F;24;régulièrement
+77;Aromatics Elixir;3;8;F;24;régulièrement
+77;Chanel n5;1;3;F;24;régulièrement
+77;Cinema;4;9;F;24;régulièrement
+77;Coco Madmoiselle ;9;2;F;24;régulièrement
+77;Jadore EP;8;7;F;24;régulièrement
+77;Jadore ET;1;5;F;24;régulièrement
+77;Linstant;9;12;F;24;régulièrement
+77;Lolita Lempicka;4;4;F;24;régulièrement
+77;Pleasures;2;10;F;24;régulièrement
+77;Pure Poison;5;6;F;24;régulièrement
+77;Shalimar;4;11;F;24;régulièrement
+78;Angel;1;7;F;20;régulièrement
+78;Aromatics Elixir;3;2;F;20;régulièrement
+78;Chanel n5;4;9;F;20;régulièrement
+78;Cinema;9;10;F;20;régulièrement
+78;Coco Madmoiselle ;6;5;F;20;régulièrement
+78;Jadore EP;8;12;F;20;régulièrement
+78;Jadore ET;8;11;F;20;régulièrement
+78;Linstant;3;6;F;20;régulièrement
+78;Lolita Lempicka;10;3;F;20;régulièrement
+78;Pleasures;9;4;F;20;régulièrement
+78;Pure Poison;5;1;F;20;régulièrement
+78;Shalimar;1;8;F;20;régulièrement
+79;Angel;4;5;F;20;jamais
+79;Aromatics Elixir;1;4;F;20;jamais
+79;Chanel n5;1;7;F;20;jamais
+79;Cinema;5;12;F;20;jamais
+79;Coco Madmoiselle ;3;3;F;20;jamais
+79;Jadore EP;7;11;F;20;jamais
+79;Jadore ET;6;9;F;20;jamais
+79;Linstant;6;8;F;20;jamais
+79;Lolita Lempicka;3;1;F;20;jamais
+79;Pleasures;6;6;F;20;jamais
+79;Pure Poison;2;2;F;20;jamais
+79;Shalimar;6;10;F;20;jamais
+80;Angel;10;9;F;20;chaque jour
+80;Aromatics Elixir;1;1;F;20;chaque jour
+80;Chanel n5;1;11;F;20;chaque jour
+80;Cinema;2;8;F;20;chaque jour
+80;Coco Madmoiselle ;5;7;F;20;chaque jour
+80;Jadore EP;8;10;F;20;chaque jour
+80;Jadore ET;9;12;F;20;chaque jour
+80;Linstant;6;4;F;20;chaque jour
+80;Lolita Lempicka;9;5;F;20;chaque jour
+80;Pleasures;2;2;F;20;chaque jour
+80;Pure Poison;3;3;F;20;chaque jour
+80;Shalimar;1;6;F;20;chaque jour
+81;Angel;8;11;F;20;régulièrement
+81;Aromatics Elixir;1;3;F;20;régulièrement
+81;Chanel n5;5;12;F;20;régulièrement
+81;Cinema;4;6;F;20;régulièrement
+81;Coco Madmoiselle ;1;9;F;20;régulièrement
+81;Jadore EP;10;8;F;20;régulièrement
+81;Jadore ET;7;10;F;20;régulièrement
+81;Linstant;8;2;F;20;régulièrement
+81;Lolita Lempicka;7;7;F;20;régulièrement
+81;Pleasures;2;1;F;20;régulièrement
+81;Pure Poison;5;5;F;20;régulièrement
+81;Shalimar;3;4;F;20;régulièrement
+82;Angel;9;3;H;18;rarement
+82;Aromatics Elixir;7;6;H;18;rarement
+82;Chanel n5;1;5;H;18;rarement
+82;Cinema;7;11;H;18;rarement
+82;Coco Madmoiselle ;6;1;H;18;rarement
+82;Jadore EP;6;9;H;18;rarement
+82;Jadore ET;4;7;H;18;rarement
+82;Linstant;8;10;H;18;rarement
+82;Lolita Lempicka;5;2;H;18;rarement
+82;Pleasures;5;8;H;18;rarement
+82;Pure Poison;8;4;H;18;rarement
+82;Shalimar;1;12;H;18;rarement
+83;Angel;2;2;F;19;chaque jour
+83;Aromatics Elixir;2;10;F;19;chaque jour
+83;Chanel n5;1;1;F;19;chaque jour
+83;Cinema;7;7;F;19;chaque jour
+83;Coco Madmoiselle ;5;4;F;19;chaque jour
+83;Jadore EP;6;5;F;19;chaque jour
+83;Jadore ET;5;3;F;19;chaque jour
+83;Linstant;10;11;F;19;chaque jour
+83;Lolita Lempicka;9;9;F;19;chaque jour
+83;Pleasures;7;12;F;19;chaque jour
+83;Pure Poison;6;8;F;19;chaque jour
+83;Shalimar;4;6;F;19;chaque jour
+84;Angel;4;11;H;18;rarement
+84;Aromatics Elixir;5;3;H;18;rarement
+84;Chanel n5;2;12;H;18;rarement
+84;Cinema;9;6;H;18;rarement
+84;Coco Madmoiselle ;6;9;H;18;rarement
+84;Jadore EP;7;8;H;18;rarement
+84;Jadore ET;6;10;H;18;rarement
+84;Linstant;7;2;H;18;rarement
+84;Lolita Lempicka;9;7;H;18;rarement
+84;Pleasures;8;1;H;18;rarement
+84;Pure Poison;6;5;H;18;rarement
+84;Shalimar;7;4;H;18;rarement
+85;Angel;1;10;H;18;régulièrement
+85;Aromatics Elixir;1;7;H;18;régulièrement
+85;Chanel n5;3;8;H;18;régulièrement
+85;Cinema;8;2;H;18;régulièrement
+85;Coco Madmoiselle ;9;12;H;18;régulièrement
+85;Jadore EP;10;4;H;18;régulièrement
+85;Jadore ET;9;6;H;18;régulièrement
+85;Linstant;5;3;H;18;régulièrement
+85;Lolita Lempicka;7;11;H;18;régulièrement
+85;Pleasures;6;5;H;18;régulièrement
+85;Pure Poison;8;9;H;18;régulièrement
+85;Shalimar;8;1;H;18;régulièrement
+86;Angel;1;7;F;19;rarement
+86;Aromatics Elixir;1;2;F;19;rarement
+86;Chanel n5;3;9;F;19;rarement
+86;Cinema;9;10;F;19;rarement
+86;Coco Madmoiselle ;5;5;F;19;rarement
+86;Jadore EP;6;12;F;19;rarement
+86;Jadore ET;6;11;F;19;rarement
+86;Linstant;6;6;F;19;rarement
+86;Lolita Lempicka;8;3;F;19;rarement
+86;Pleasures;4;4;F;19;rarement
+86;Pure Poison;5;1;F;19;rarement
+86;Shalimar;1;8;F;19;rarement
+87;Angel;2;8;F;19;rarement
+87;Aromatics Elixir;1;9;F;19;rarement
+87;Chanel n5;1;6;F;19;rarement
+87;Cinema;9;1;F;19;rarement
+87;Coco Madmoiselle ;6;10;F;19;rarement
+87;Jadore EP;2;2;F;19;rarement
+87;Jadore ET;5;4;F;19;rarement
+87;Linstant;6;5;F;19;rarement
+87;Lolita Lempicka;9;12;F;19;rarement
+87;Pleasures;10;7;F;19;rarement
+87;Pure Poison;10;11;F;19;rarement
+87;Shalimar;1;3;F;19;rarement
+88;Angel;5;3;F;21;régulièrement
+88;Aromatics Elixir;2;6;F;21;régulièrement
+88;Chanel n5;1;5;F;21;régulièrement
+88;Cinema;7;11;F;21;régulièrement
+88;Coco Madmoiselle ;7;1;F;21;régulièrement
+88;Jadore EP;9;9;F;21;régulièrement
+88;Jadore ET;9;7;F;21;régulièrement
+88;Linstant;3;10;F;21;régulièrement
+88;Lolita Lempicka;9;2;F;21;régulièrement
+88;Pleasures;8;8;F;21;régulièrement
+88;Pure Poison;8;4;F;21;régulièrement
+88;Shalimar;5;12;F;21;régulièrement
+89;Angel;1;5;F;53;chaque jour
+89;Aromatics Elixir;1;4;F;53;chaque jour
+89;Chanel n5;10;7;F;53;chaque jour
+89;Cinema;6;12;F;53;chaque jour
+89;Coco Madmoiselle ;3;3;F;53;chaque jour
+89;Jadore EP;8;11;F;53;chaque jour
+89;Jadore ET;8;9;F;53;chaque jour
+89;Linstant;7;8;F;53;chaque jour
+89;Lolita Lempicka;3;1;F;53;chaque jour
+89;Pleasures;6;6;F;53;chaque jour
+89;Pure Poison;3;2;F;53;chaque jour
+89;Shalimar;1;10;F;53;chaque jour
+90;Angel;1;8;H;44;rarement
+90;Aromatics Elixir;2;9;H;44;rarement
+90;Chanel n5;3;6;H;44;rarement
+90;Cinema;1;1;H;44;rarement
+90;Coco Madmoiselle ;2;10;H;44;rarement
+90;Jadore EP;6;2;H;44;rarement
+90;Jadore ET;7;4;H;44;rarement
+90;Linstant;2;5;H;44;rarement
+90;Lolita Lempicka;1;12;H;44;rarement
+90;Pleasures;8;7;H;44;rarement
+90;Pure Poison;5;11;H;44;rarement
+90;Shalimar;1;3;H;44;rarement
+91;Angel;4;12;H;53;jamais
+91;Aromatics Elixir;2;5;H;53;jamais
+91;Chanel n5;5;10;H;53;jamais
+91;Cinema;6;4;H;53;jamais
+91;Coco Madmoiselle ;9;11;H;53;jamais
+91;Jadore EP;7;6;H;53;jamais
+91;Jadore ET;8;8;H;53;jamais
+91;Linstant;8;1;H;53;jamais
+91;Lolita Lempicka;8;9;H;53;jamais
+91;Pleasures;8;3;H;53;jamais
+91;Pure Poison;7;7;H;53;jamais
+91;Shalimar;1;2;H;53;jamais
+92;Angel;3;10;F;47;chaque jour
+92;Aromatics Elixir;6;7;F;47;chaque jour
+92;Chanel n5;2;8;F;47;chaque jour
+92;Cinema;5;2;F;47;chaque jour
+92;Coco Madmoiselle ;8;12;F;47;chaque jour
+92;Jadore EP;4;4;F;47;chaque jour
+92;Jadore ET;8;6;F;47;chaque jour
+92;Linstant;3;3;F;47;chaque jour
+92;Lolita Lempicka;8;11;F;47;chaque jour
+92;Pleasures;4;5;F;47;chaque jour
+92;Pure Poison;4;9;F;47;chaque jour
+92;Shalimar;2;1;F;47;chaque jour
+93;Angel;7;4;H;54;rarement
+93;Aromatics Elixir;4;12;H;54;rarement
+93;Chanel n5;6;2;H;54;rarement
+93;Cinema;9;5;H;54;rarement
+93;Coco Madmoiselle ;5;6;H;54;rarement
+93;Jadore EP;8;3;H;54;rarement
+93;Jadore ET;5;1;H;54;rarement
+93;Linstant;3;9;H;54;rarement
+93;Lolita Lempicka;8;8;H;54;rarement
+93;Pleasures;6;11;H;54;rarement
+93;Pure Poison;8;10;H;54;rarement
+93;Shalimar;3;7;H;54;rarement
+94;Angel;2;11;F;47;jamais
+94;Aromatics Elixir;4;3;F;47;jamais
+94;Chanel n5;3;12;F;47;jamais
+94;Cinema;8;6;F;47;jamais
+94;Coco Madmoiselle ;3;9;F;47;jamais
+94;Jadore EP;7;8;F;47;jamais
+94;Jadore ET;4;10;F;47;jamais
+94;Linstant;7;2;F;47;jamais
+94;Lolita Lempicka;8;7;F;47;jamais
+94;Pleasures;7;1;F;47;jamais
+94;Pure Poison;6;5;F;47;jamais
+94;Shalimar;4;4;F;47;jamais
+95;Angel;1;9;F;43;chaque jour
+95;Aromatics Elixir;5;1;F;43;chaque jour
+95;Chanel n5;9;11;F;43;chaque jour
+95;Cinema;5;8;F;43;chaque jour
+95;Coco Madmoiselle ;5;7;F;43;chaque jour
+95;Jadore EP;6;10;F;43;chaque jour
+95;Jadore ET;5;12;F;43;chaque jour
+95;Linstant;5;4;F;43;chaque jour
+95;Lolita Lempicka;9;5;F;43;chaque jour
+95;Pleasures;6;2;F;43;chaque jour
+95;Pure Poison;7;3;F;43;chaque jour
+95;Shalimar;1;6;F;43;chaque jour
+96;Angel;1;11;F;55;rarement
+96;Aromatics Elixir;9;3;F;55;rarement
+96;Chanel n5;3;12;F;55;rarement
+96;Cinema;10;6;F;55;rarement
+96;Coco Madmoiselle ;4;9;F;55;rarement
+96;Jadore EP;4;8;F;55;rarement
+96;Jadore ET;2;10;F;55;rarement
+96;Linstant;6;2;F;55;rarement
+96;Lolita Lempicka;8;7;F;55;rarement
+96;Pleasures;1;1;F;55;rarement
+96;Pure Poison;8;5;F;55;rarement
+96;Shalimar;4;4;F;55;rarement
+97;Angel;3;1;F;45;régulièrement
+97;Aromatics Elixir;2;8;F;45;régulièrement
+97;Chanel n5;7;3;F;45;régulièrement
+97;Cinema;6;9;F;45;régulièrement
+97;Coco Madmoiselle ;7;2;F;45;régulièrement
+97;Jadore EP;5;7;F;45;régulièrement
+97;Jadore ET;3;5;F;45;régulièrement
+97;Linstant;7;12;F;45;régulièrement
+97;Lolita Lempicka;2;4;F;45;régulièrement
+97;Pleasures;2;10;F;45;régulièrement
+97;Pure Poison;5;6;F;45;régulièrement
+97;Shalimar;4;11;F;45;régulièrement
+98;Angel;1;1;H;45;chaque jour
+98;Aromatics Elixir;1;8;H;45;chaque jour
+98;Chanel n5;7;3;H;45;chaque jour
+98;Cinema;4;9;H;45;chaque jour
+98;Coco Madmoiselle ;9;2;H;45;chaque jour
+98;Jadore EP;10;7;H;45;chaque jour
+98;Jadore ET;9;5;H;45;chaque jour
+98;Linstant;9;12;H;45;chaque jour
+98;Lolita Lempicka;4;4;H;45;chaque jour
+98;Pleasures;7;10;H;45;chaque jour
+98;Pure Poison;8;6;H;45;chaque jour
+98;Shalimar;1;11;H;45;chaque jour
+99;Angel;7;1;F;20;rarement
+99;Aromatics Elixir;1;8;F;20;rarement
+99;Chanel n5;2;3;F;20;rarement
+99;Cinema;5;9;F;20;rarement
+99;Coco Madmoiselle ;6;2;F;20;rarement
+99;Jadore EP;6;7;F;20;rarement
+99;Jadore ET;8;5;F;20;rarement
+99;Linstant;2;12;F;20;rarement
+99;Lolita Lempicka;7;4;F;20;rarement
+99;Pleasures;4;10;F;20;rarement
+99;Pure Poison;7;6;F;20;rarement
+99;Shalimar;1;11;F;20;rarement
+100;Angel;3;4;H;21;rarement
+100;Aromatics Elixir;1;12;H;21;rarement
+100;Chanel n5;1;2;H;21;rarement
+100;Cinema;4;5;H;21;rarement
+100;Coco Madmoiselle ;2;6;H;21;rarement
+100;Jadore EP;5;3;H;21;rarement
+100;Jadore ET;1;1;H;21;rarement
+100;Linstant;1;9;H;21;rarement
+100;Lolita Lempicka;8;8;H;21;rarement
+100;Pleasures;4;11;H;21;rarement
+100;Pure Poison;9;10;H;21;rarement
+100;Shalimar;3;7;H;21;rarement
+101;Angel;4;3;F;20;rarement
+101;Aromatics Elixir;1;6;F;20;rarement
+101;Chanel n5;3;5;F;20;rarement
+101;Cinema;5;11;F;20;rarement
+101;Coco Madmoiselle ;4;1;F;20;rarement
+101;Jadore EP;7;9;F;20;rarement
+101;Jadore ET;7;7;F;20;rarement
+101;Linstant;3;10;F;20;rarement
+101;Lolita Lempicka;3;2;F;20;rarement
+101;Pleasures;7;8;F;20;rarement
+101;Pure Poison;5;4;F;20;rarement
+101;Shalimar;1;12;F;20;rarement
+102;Angel;4;12;H;22;régulièrement
+102;Aromatics Elixir;1;5;H;22;régulièrement
+102;Chanel n5;2;10;H;22;régulièrement
+102;Cinema;5;4;H;22;régulièrement
+102;Coco Madmoiselle ;5;11;H;22;régulièrement
+102;Jadore EP;6;6;H;22;régulièrement
+102;Jadore ET;6;8;H;22;régulièrement
+102;Linstant;7;1;H;22;régulièrement
+102;Lolita Lempicka;3;9;H;22;régulièrement
+102;Pleasures;4;3;H;22;régulièrement
+102;Pure Poison;5;7;H;22;régulièrement
+102;Shalimar;5;2;H;22;régulièrement
+103;Angel;7;12;F;21;jamais
+103;Aromatics Elixir;1;5;F;21;jamais
+103;Chanel n5;1;10;F;21;jamais
+103;Cinema;6;4;F;21;jamais
+103;Coco Madmoiselle ;10;11;F;21;jamais
+103;Jadore EP;4;6;F;21;jamais
+103;Jadore ET;3;8;F;21;jamais
+103;Linstant;3;1;F;21;jamais
+103;Lolita Lempicka;6;9;F;21;jamais
+103;Pleasures;5;3;F;21;jamais
+103;Pure Poison;2;7;F;21;jamais
+103;Shalimar;1;2;F;21;jamais
+104;Angel;5;8;F;20;chaque jour
+104;Aromatics Elixir;1;9;F;20;chaque jour
+104;Chanel n5;3;6;F;20;chaque jour
+104;Cinema;8;1;F;20;chaque jour
+104;Coco Madmoiselle ;8;10;F;20;chaque jour
+104;Jadore EP;10;2;F;20;chaque jour
+104;Jadore ET;7;4;F;20;chaque jour
+104;Linstant;9;5;F;20;chaque jour
+104;Lolita Lempicka;5;12;F;20;chaque jour
+104;Pleasures;8;7;F;20;chaque jour
+104;Pure Poison;7;11;F;20;chaque jour
+104;Shalimar;1;3;F;20;chaque jour
+105;Angel;2;12;F;18;chaque jour
+105;Aromatics Elixir;1;5;F;18;chaque jour
+105;Chanel n5;3;10;F;18;chaque jour
+105;Cinema;7;4;F;18;chaque jour
+105;Coco Madmoiselle ;7;11;F;18;chaque jour
+105;Jadore EP;2;6;F;18;chaque jour
+105;Jadore ET;4;8;F;18;chaque jour
+105;Linstant;6;1;F;18;chaque jour
+105;Lolita Lempicka;10;9;F;18;chaque jour
+105;Pleasures;6;3;F;18;chaque jour
+105;Pure Poison;2;7;F;18;chaque jour
+105;Shalimar;1;2;F;18;chaque jour
+106;Angel;8;8;F;19;chaque jour
+106;Aromatics Elixir;5;9;F;19;chaque jour
+106;Chanel n5;3;6;F;19;chaque jour
+106;Cinema;5;1;F;19;chaque jour
+106;Coco Madmoiselle ;4;10;F;19;chaque jour
+106;Jadore EP;3;2;F;19;chaque jour
+106;Jadore ET;6;4;F;19;chaque jour
+106;Linstant;4;5;F;19;chaque jour
+106;Lolita Lempicka;8;12;F;19;chaque jour
+106;Pleasures;7;7;F;19;chaque jour
+106;Pure Poison;5;11;F;19;chaque jour
+106;Shalimar;1;3;F;19;chaque jour
+107;Angel;10;6;F;19;régulièrement
+107;Aromatics Elixir;7;11;F;19;régulièrement
+107;Chanel n5;4;4;F;19;régulièrement
+107;Cinema;7;3;F;19;régulièrement
+107;Coco Madmoiselle ;4;8;F;19;régulièrement
+107;Jadore EP;7;1;F;19;régulièrement
+107;Jadore ET;6;2;F;19;régulièrement
+107;Linstant;9;7;F;19;régulièrement
+107;Lolita Lempicka;9;10;F;19;régulièrement
+107;Pleasures;5;9;F;19;régulièrement
+107;Pure Poison;1;12;F;19;régulièrement
+107;Shalimar;1;5;F;19;régulièrement
+108;Angel;2;4;F;48;chaque jour
+108;Aromatics Elixir;2;12;F;48;chaque jour
+108;Chanel n5;2;2;F;48;chaque jour
+108;Cinema;4;5;F;48;chaque jour
+108;Coco Madmoiselle ;5;6;F;48;chaque jour
+108;Jadore EP;6;3;F;48;chaque jour
+108;Jadore ET;7;1;F;48;chaque jour
+108;Linstant;7;9;F;48;chaque jour
+108;Lolita Lempicka;4;8;F;48;chaque jour
+108;Pleasures;3;11;F;48;chaque jour
+108;Pure Poison;4;10;F;48;chaque jour
+108;Shalimar;5;7;F;48;chaque jour
+109;Angel;8;3;H;43;chaque jour
+109;Aromatics Elixir;2;6;H;43;chaque jour
+109;Chanel n5;2;5;H;43;chaque jour
+109;Cinema;7;11;H;43;chaque jour
+109;Coco Madmoiselle ;8;1;H;43;chaque jour
+109;Jadore EP;6;9;H;43;chaque jour
+109;Jadore ET;6;7;H;43;chaque jour
+109;Linstant;5;10;H;43;chaque jour
+109;Lolita Lempicka;4;2;H;43;chaque jour
+109;Pleasures;5;8;H;43;chaque jour
+109;Pure Poison;7;4;H;43;chaque jour
+109;Shalimar;3;12;H;43;chaque jour
+110;Angel;5;5;F;23;chaque jour
+110;Aromatics Elixir;8;4;F;23;chaque jour
+110;Chanel n5;1;7;F;23;chaque jour
+110;Cinema;10;12;F;23;chaque jour
+110;Coco Madmoiselle ;4;3;F;23;chaque jour
+110;Jadore EP;7;11;F;23;chaque jour
+110;Jadore ET;10;9;F;23;chaque jour
+110;Linstant;10;8;F;23;chaque jour
+110;Lolita Lempicka;4;1;F;23;chaque jour
+110;Pleasures;4;6;F;23;chaque jour
+110;Pure Poison;1;2;F;23;chaque jour
+110;Shalimar;1;10;F;23;chaque jour
+111;Angel;3;6;F;21;chaque jour
+111;Aromatics Elixir;9;11;F;21;chaque jour
+111;Chanel n5;8;4;F;21;chaque jour
+111;Cinema;1;3;F;21;chaque jour
+111;Coco Madmoiselle ;6;8;F;21;chaque jour
+111;Jadore EP;9;1;F;21;chaque jour
+111;Jadore ET;7;2;F;21;chaque jour
+111;Linstant;2;7;F;21;chaque jour
+111;Lolita Lempicka;10;10;F;21;chaque jour
+111;Pleasures;7;9;F;21;chaque jour
+111;Pure Poison;5;12;F;21;chaque jour
+111;Shalimar;7;5;F;21;chaque jour
+112;Angel;9;10;F;21;chaque jour
+112;Aromatics Elixir;1;7;F;21;chaque jour
+112;Chanel n5;2;8;F;21;chaque jour
+112;Cinema;8;2;F;21;chaque jour
+112;Coco Madmoiselle ;9;12;F;21;chaque jour
+112;Jadore EP;7;4;F;21;chaque jour
+112;Jadore ET;5;6;F;21;chaque jour
+112;Linstant;8;3;F;21;chaque jour
+112;Lolita Lempicka;10;11;F;21;chaque jour
+112;Pleasures;5;5;F;21;chaque jour
+112;Pure Poison;8;9;F;21;chaque jour
+112;Shalimar;5;1;F;21;chaque jour
+113;Angel;8;5;F;21;chaque jour
+113;Aromatics Elixir;1;4;F;21;chaque jour
+113;Chanel n5;2;7;F;21;chaque jour
+113;Cinema;6;12;F;21;chaque jour
+113;Coco Madmoiselle ;6;3;F;21;chaque jour
+113;Jadore EP;3;11;F;21;chaque jour
+113;Jadore ET;2;9;F;21;chaque jour
+113;Linstant;3;8;F;21;chaque jour
+113;Lolita Lempicka;9;1;F;21;chaque jour
+113;Pleasures;2;6;F;21;chaque jour
+113;Pure Poison;6;2;F;21;chaque jour
+113;Shalimar;3;10;F;21;chaque jour
+114;Angel;1;7;F;25;chaque jour
+114;Aromatics Elixir;1;2;F;25;chaque jour
+114;Chanel n5;3;9;F;25;chaque jour
+114;Cinema;4;10;F;25;chaque jour
+114;Coco Madmoiselle ;1;5;F;25;chaque jour
+114;Jadore EP;3;12;F;25;chaque jour
+114;Jadore ET;2;11;F;25;chaque jour
+114;Linstant;3;6;F;25;chaque jour
+114;Lolita Lempicka;3;3;F;25;chaque jour
+114;Pleasures;3;4;F;25;chaque jour
+114;Pure Poison;2;1;F;25;chaque jour
+114;Shalimar;3;8;F;25;chaque jour
+115;Angel;5;11;F;22;chaque jour
+115;Aromatics Elixir;2;3;F;22;chaque jour
+115;Chanel n5;2;12;F;22;chaque jour
+115;Cinema;9;6;F;22;chaque jour
+115;Coco Madmoiselle ;10;9;F;22;chaque jour
+115;Jadore EP;4;8;F;22;chaque jour
+115;Jadore ET;9;10;F;22;chaque jour
+115;Linstant;7;2;F;22;chaque jour
+115;Lolita Lempicka;8;7;F;22;chaque jour
+115;Pleasures;9;1;F;22;chaque jour
+115;Pure Poison;7;5;F;22;chaque jour
+115;Shalimar;4;4;F;22;chaque jour
+116;Angel;6;9;H;25;chaque jour
+116;Aromatics Elixir;4;1;H;25;chaque jour
+116;Chanel n5;3;11;H;25;chaque jour
+116;Cinema;10;8;H;25;chaque jour
+116;Coco Madmoiselle ;6;7;H;25;chaque jour
+116;Jadore EP;5;10;H;25;chaque jour
+116;Jadore ET;6;12;H;25;chaque jour
+116;Linstant;9;4;H;25;chaque jour
+116;Lolita Lempicka;6;5;H;25;chaque jour
+116;Pleasures;1;2;H;25;chaque jour
+116;Pure Poison;1;3;H;25;chaque jour
+116;Shalimar;7;6;H;25;chaque jour
+117;Angel;7;9;H;22;rarement
+117;Aromatics Elixir;6;1;H;22;rarement
+117;Chanel n5;4;11;H;22;rarement
+117;Cinema;7;8;H;22;rarement
+117;Coco Madmoiselle ;8;7;H;22;rarement
+117;Jadore EP;5;10;H;22;rarement
+117;Jadore ET;4;12;H;22;rarement
+117;Linstant;5;4;H;22;rarement
+117;Lolita Lempicka;7;5;H;22;rarement
+117;Pleasures;4;2;H;22;rarement
+117;Pure Poison;4;3;H;22;rarement
+117;Shalimar;4;6;H;22;rarement
+118;Angel;3;1;H;18;rarement
+118;Aromatics Elixir;2;8;H;18;rarement
+118;Chanel n5;5;3;H;18;rarement
+118;Cinema;9;9;H;18;rarement
+118;Coco Madmoiselle ;2;2;H;18;rarement
+118;Jadore EP;8;7;H;18;rarement
+118;Jadore ET;7;5;H;18;rarement
+118;Linstant;5;12;H;18;rarement
+118;Lolita Lempicka;7;4;H;18;rarement
+118;Pleasures;8;10;H;18;rarement
+118;Pure Poison;6;6;H;18;rarement
+118;Shalimar;4;11;H;18;rarement
+119;Angel;3;7;F;18;chaque jour
+119;Aromatics Elixir;6;2;F;18;chaque jour
+119;Chanel n5;7;9;F;18;chaque jour
+119;Cinema;5;10;F;18;chaque jour
+119;Coco Madmoiselle ;9;5;F;18;chaque jour
+119;Jadore EP;7;12;F;18;chaque jour
+119;Jadore ET;8;11;F;18;chaque jour
+119;Linstant;4;6;F;18;chaque jour
+119;Lolita Lempicka;10;3;F;18;chaque jour
+119;Pleasures;2;4;F;18;chaque jour
+119;Pure Poison;6;1;F;18;chaque jour
+119;Shalimar;1;8;F;18;chaque jour
+120;Angel;3;1;F;43;chaque jour
+120;Aromatics Elixir;3;8;F;43;chaque jour
+120;Chanel n5;3;3;F;43;chaque jour
+120;Cinema;7;9;F;43;chaque jour
+120;Coco Madmoiselle ;7;2;F;43;chaque jour
+120;Jadore EP;1;7;F;43;chaque jour
+120;Jadore ET;3;5;F;43;chaque jour
+120;Linstant;3;12;F;43;chaque jour
+120;Lolita Lempicka;7;4;F;43;chaque jour
+120;Pleasures;9;10;F;43;chaque jour
+120;Pure Poison;1;6;F;43;chaque jour
+120;Shalimar;3;11;F;43;chaque jour
+121;Angel;6;12;F;52;chaque jour
+121;Aromatics Elixir;6;5;F;52;chaque jour
+121;Chanel n5;5;10;F;52;chaque jour
+121;Cinema;6;4;F;52;chaque jour
+121;Coco Madmoiselle ;2;11;F;52;chaque jour
+121;Jadore EP;2;6;F;52;chaque jour
+121;Jadore ET;2;8;F;52;chaque jour
+121;Linstant;2;1;F;52;chaque jour
+121;Lolita Lempicka;3;9;F;52;chaque jour
+121;Pleasures;6;3;F;52;chaque jour
+121;Pure Poison;3;7;F;52;chaque jour
+121;Shalimar;4;2;F;52;chaque jour
+122;Angel;8;2;H;53;rarement
+122;Aromatics Elixir;7;10;H;53;rarement
+122;Chanel n5;3;1;H;53;rarement
+122;Cinema;1;7;H;53;rarement
+122;Coco Madmoiselle ;1;4;H;53;rarement
+122;Jadore EP;7;5;H;53;rarement
+122;Jadore ET;2;3;H;53;rarement
+122;Linstant;8;11;H;53;rarement
+122;Lolita Lempicka;3;9;H;53;rarement
+122;Pleasures;9;12;H;53;rarement
+122;Pure Poison;6;8;H;53;rarement
+122;Shalimar;1;6;H;53;rarement
+123;Angel;5;4;H;22;chaque jour
+123;Aromatics Elixir;2;12;H;22;chaque jour
+123;Chanel n5;1;2;H;22;chaque jour
+123;Cinema;3;5;H;22;chaque jour
+123;Coco Madmoiselle ;3;6;H;22;chaque jour
+123;Jadore EP;6;3;H;22;chaque jour
+123;Jadore ET;4;1;H;22;chaque jour
+123;Linstant;5;9;H;22;chaque jour
+123;Lolita Lempicka;4;8;H;22;chaque jour
+123;Pleasures;4;11;H;22;chaque jour
+123;Pure Poison;4;10;H;22;chaque jour
+123;Shalimar;2;7;H;22;chaque jour
+124;Angel;2;10;F;23;régulièrement
+124;Aromatics Elixir;2;7;F;23;régulièrement
+124;Chanel n5;2;8;F;23;régulièrement
+124;Cinema;4;2;F;23;régulièrement
+124;Coco Madmoiselle ;4;12;F;23;régulièrement
+124;Jadore EP;7;4;F;23;régulièrement
+124;Jadore ET;10;6;F;23;régulièrement
+124;Linstant;2;3;F;23;régulièrement
+124;Lolita Lempicka;5;11;F;23;régulièrement
+124;Pleasures;6;5;F;23;régulièrement
+124;Pure Poison;8;9;F;23;régulièrement
+124;Shalimar;2;1;F;23;régulièrement
+125;Angel;9;1;F;19;rarement
+125;Aromatics Elixir;1;8;F;19;rarement
+125;Chanel n5;1;3;F;19;rarement
+125;Cinema;10;9;F;19;rarement
+125;Coco Madmoiselle ;9;2;F;19;rarement
+125;Jadore EP;5;7;F;19;rarement
+125;Jadore ET;7;5;F;19;rarement
+125;Linstant;4;12;F;19;rarement
+125;Lolita Lempicka;8;4;F;19;rarement
+125;Pleasures;7;10;F;19;rarement
+125;Pure Poison;6;6;F;19;rarement
+125;Shalimar;2;11;F;19;rarement
+126;Angel;1;11;F;22;chaque jour
+126;Aromatics Elixir;1;3;F;22;chaque jour
+126;Chanel n5;1;12;F;22;chaque jour
+126;Cinema;10;6;F;22;chaque jour
+126;Coco Madmoiselle ;8;9;F;22;chaque jour
+126;Jadore EP;10;8;F;22;chaque jour
+126;Jadore ET;10;10;F;22;chaque jour
+126;Linstant;5;2;F;22;chaque jour
+126;Lolita Lempicka;1;7;F;22;chaque jour
+126;Pleasures;10;1;F;22;chaque jour
+126;Pure Poison;5;5;F;22;chaque jour
+126;Shalimar;2;4;F;22;chaque jour
+127;Angel;5;5;F;21;chaque jour
+127;Aromatics Elixir;2;4;F;21;chaque jour
+127;Chanel n5;1;7;F;21;chaque jour
+127;Cinema;8;12;F;21;chaque jour
+127;Coco Madmoiselle ;8;3;F;21;chaque jour
+127;Jadore EP;5;11;F;21;chaque jour
+127;Jadore ET;4;9;F;21;chaque jour
+127;Linstant;5;8;F;21;chaque jour
+127;Lolita Lempicka;7;1;F;21;chaque jour
+127;Pleasures;8;6;F;21;chaque jour
+127;Pure Poison;9;2;F;21;chaque jour
+127;Shalimar;2;10;F;21;chaque jour
+128;Angel;2;7;F;23;chaque jour
+128;Aromatics Elixir;4;2;F;23;chaque jour
+128;Chanel n5;5;9;F;23;chaque jour
+128;Cinema;7;10;F;23;chaque jour
+128;Coco Madmoiselle ;10;5;F;23;chaque jour
+128;Jadore EP;8;12;F;23;chaque jour
+128;Jadore ET;9;11;F;23;chaque jour
+128;Linstant;7;6;F;23;chaque jour
+128;Lolita Lempicka;7;3;F;23;chaque jour
+128;Pleasures;6;4;F;23;chaque jour
+128;Pure Poison;4;1;F;23;chaque jour
+128;Shalimar;3;8;F;23;chaque jour
+129;Angel;8;6;F;21;chaque jour
+129;Aromatics Elixir;1;11;F;21;chaque jour
+129;Chanel n5;8;4;F;21;chaque jour
+129;Cinema;4;3;F;21;chaque jour
+129;Coco Madmoiselle ;7;8;F;21;chaque jour
+129;Jadore EP;8;1;F;21;chaque jour
+129;Jadore ET;8;2;F;21;chaque jour
+129;Linstant;5;7;F;21;chaque jour
+129;Lolita Lempicka;2;10;F;21;chaque jour
+129;Pleasures;6;9;F;21;chaque jour
+129;Pure Poison;7;12;F;21;chaque jour
+129;Shalimar;8;5;F;21;chaque jour
+130;Angel;1;12;F;22;régulièrement
+130;Aromatics Elixir;1;5;F;22;régulièrement
+130;Chanel n5;2;10;F;22;régulièrement
+130;Cinema;2;4;F;22;régulièrement
+130;Coco Madmoiselle ;7;11;F;22;régulièrement
+130;Jadore EP;8;6;F;22;régulièrement
+130;Jadore ET;9;8;F;22;régulièrement
+130;Linstant;3;1;F;22;régulièrement
+130;Lolita Lempicka;1;9;F;22;régulièrement
+130;Pleasures;4;3;F;22;régulièrement
+130;Pure Poison;7;7;F;22;régulièrement
+130;Shalimar;2;2;F;22;régulièrement
+131;Angel;10;2;H;22;chaque jour
+131;Aromatics Elixir;1;10;H;22;chaque jour
+131;Chanel n5;1;1;H;22;chaque jour
+131;Cinema;9;7;H;22;chaque jour
+131;Coco Madmoiselle ;4;4;H;22;chaque jour
+131;Jadore EP;1;5;H;22;chaque jour
+131;Jadore ET;3;3;H;22;chaque jour
+131;Linstant;8;11;H;22;chaque jour
+131;Lolita Lempicka;10;9;H;22;chaque jour
+131;Pleasures;9;12;H;22;chaque jour
+131;Pure Poison;6;8;H;22;chaque jour
+131;Shalimar;6;6;H;22;chaque jour
+132;Angel;5;2;H;23;Rarement
+132;Aromatics Elixir;4;10;H;23;Rarement
+132;Chanel n5;6;1;H;23;Rarement
+132;Cinema;5;7;H;23;Rarement
+132;Coco Madmoiselle ;5;4;H;23;Rarement
+132;Jadore EP;5;5;H;23;Rarement
+132;Jadore ET;6;3;H;23;Rarement
+132;Linstant;6;11;H;23;Rarement
+132;Lolita Lempicka;4;9;H;23;Rarement
+132;Pleasures;7;12;H;23;Rarement
+132;Pure Poison;5;8;H;23;Rarement
+132;Shalimar;4;6;H;23;Rarement
+133;Angel;2;11;F;22;régulièrement
+133;Aromatics Elixir;2;3;F;22;régulièrement
+133;Chanel n5;1;12;F;22;régulièrement
+133;Cinema;8;6;F;22;régulièrement
+133;Coco Madmoiselle ;7;9;F;22;régulièrement
+133;Jadore EP;9;8;F;22;régulièrement
+133;Jadore ET;8;10;F;22;régulièrement
+133;Linstant;4;2;F;22;régulièrement
+133;Lolita Lempicka;1;7;F;22;régulièrement
+133;Pleasures;5;1;F;22;régulièrement
+133;Pure Poison;7;5;F;22;régulièrement
+133;Shalimar;3;4;F;22;régulièrement
+134;Angel;1;4;F;23;régulièrement
+134;Aromatics Elixir;1;12;F;23;régulièrement
+134;Chanel n5;1;2;F;23;régulièrement
+134;Cinema;5;5;F;23;régulièrement
+134;Coco Madmoiselle ;9;6;F;23;régulièrement
+134;Jadore EP;9;3;F;23;régulièrement
+134;Jadore ET;4;1;F;23;régulièrement
+134;Linstant;3;9;F;23;régulièrement
+134;Lolita Lempicka;4;8;F;23;régulièrement
+134;Pleasures;2;11;F;23;régulièrement
+134;Pure Poison;4;10;F;23;régulièrement
+134;Shalimar;3;7;F;23;régulièrement
+135;Angel;1;1;F;23;chaque jour
+135;Aromatics Elixir;1;8;F;23;chaque jour
+135;Chanel n5;1;3;F;23;chaque jour
+135;Cinema;7;9;F;23;chaque jour
+135;Coco Madmoiselle ;7;2;F;23;chaque jour
+135;Jadore EP;1;7;F;23;chaque jour
+135;Jadore ET;1;5;F;23;chaque jour
+135;Linstant;2;12;F;23;chaque jour
+135;Lolita Lempicka;2;4;F;23;chaque jour
+135;Pleasures;5;10;F;23;chaque jour
+135;Pure Poison;3;6;F;23;chaque jour
+135;Shalimar;1;11;F;23;chaque jour
+136;Angel;6;2;H;23;jamais
+136;Aromatics Elixir;2;10;H;23;jamais
+136;Chanel n5;1;1;H;23;jamais
+136;Cinema;5;7;H;23;jamais
+136;Coco Madmoiselle ;7;4;H;23;jamais
+136;Jadore EP;9;5;H;23;jamais
+136;Jadore ET;8;3;H;23;jamais
+136;Linstant;6;11;H;23;jamais
+136;Lolita Lempicka;4;9;H;23;jamais
+136;Pleasures;6;12;H;23;jamais
+136;Pure Poison;7;8;H;23;jamais
+136;Shalimar;1;6;H;23;jamais
+137;Angel;1;10;F;22;chaque jour
+137;Aromatics Elixir;1;7;F;22;chaque jour
+137;Chanel n5;1;8;F;22;chaque jour
+137;Cinema;7;2;F;22;chaque jour
+137;Coco Madmoiselle ;7;12;F;22;chaque jour
+137;Jadore EP;8;4;F;22;chaque jour
+137;Jadore ET;8;6;F;22;chaque jour
+137;Linstant;4;3;F;22;chaque jour
+137;Lolita Lempicka;2;11;F;22;chaque jour
+137;Pleasures;2;5;F;22;chaque jour
+137;Pure Poison;5;9;F;22;chaque jour
+137;Shalimar;5;1;F;22;chaque jour
+138;Angel;3;4;H;24;régulièrement
+138;Aromatics Elixir;4;12;H;24;régulièrement
+138;Chanel n5;2;2;H;24;régulièrement
+138;Cinema;4;5;H;24;régulièrement
+138;Coco Madmoiselle ;3;6;H;24;régulièrement
+138;Jadore EP;4;3;H;24;régulièrement
+138;Jadore ET;5;1;H;24;régulièrement
+138;Linstant;7;9;H;24;régulièrement
+138;Lolita Lempicka;6;8;H;24;régulièrement
+138;Pleasures;5;11;H;24;régulièrement
+138;Pure Poison;6;10;H;24;régulièrement
+138;Shalimar;7;7;H;24;régulièrement
+139;Angel;9;7;F;22;chaque jour
+139;Aromatics Elixir;1;2;F;22;chaque jour
+139;Chanel n5;1;9;F;22;chaque jour
+139;Cinema;8;10;F;22;chaque jour
+139;Coco Madmoiselle ;6;5;F;22;chaque jour
+139;Jadore EP;5;12;F;22;chaque jour
+139;Jadore ET;8;11;F;22;chaque jour
+139;Linstant;5;6;F;22;chaque jour
+139;Lolita Lempicka;9;3;F;22;chaque jour
+139;Pleasures;4;4;F;22;chaque jour
+139;Pure Poison;2;1;F;22;chaque jour
+139;Shalimar;1;8;F;22;chaque jour
+140;Angel;1;12;H;24;chaque jour
+140;Aromatics Elixir;1;5;H;24;chaque jour
+140;Chanel n5;1;10;H;24;chaque jour
+140;Cinema;9;4;H;24;chaque jour
+140;Coco Madmoiselle ;5;11;H;24;chaque jour
+140;Jadore EP;3;6;H;24;chaque jour
+140;Jadore ET;4;8;H;24;chaque jour
+140;Linstant;8;1;H;24;chaque jour
+140;Lolita Lempicka;9;9;H;24;chaque jour
+140;Pleasures;2;3;H;24;chaque jour
+140;Pure Poison;6;7;H;24;chaque jour
+140;Shalimar;1;2;H;24;chaque jour
+141;Angel;5;4;H;19;rarement
+141;Aromatics Elixir;2;12;H;19;rarement
+141;Chanel n5;1;2;H;19;rarement
+141;Cinema;3;5;H;19;rarement
+141;Coco Madmoiselle ;3;6;H;19;rarement
+141;Jadore EP;6;3;H;19;rarement
+141;Jadore ET;4;1;H;19;rarement
+141;Linstant;5;9;H;19;rarement
+141;Lolita Lempicka;4;8;H;19;rarement
+141;Pleasures;4;11;H;19;rarement
+141;Pure Poison;4;10;H;19;rarement
+141;Shalimar;2;7;H;19;rarement
+142;Angel;3;6;H;20;régulièrement
+142;Aromatics Elixir;1;11;H;20;régulièrement
+142;Chanel n5;3;4;H;20;régulièrement
+142;Cinema;4;3;H;20;régulièrement
+142;Coco Madmoiselle ;6;8;H;20;régulièrement
+142;Jadore EP;6;1;H;20;régulièrement
+142;Jadore ET;5;2;H;20;régulièrement
+142;Linstant;7;7;H;20;régulièrement
+142;Lolita Lempicka;2;10;H;20;régulièrement
+142;Pleasures;4;9;H;20;régulièrement
+142;Pure Poison;7;12;H;20;régulièrement
+142;Shalimar;3;5;H;20;régulièrement
+143;Angel;1;10;F;20;chaque jour
+143;Aromatics Elixir;1;7;F;20;chaque jour
+143;Chanel n5;6;8;F;20;chaque jour
+143;Cinema;8;2;F;20;chaque jour
+143;Coco Madmoiselle ;6;12;F;20;chaque jour
+143;Jadore EP;3;4;F;20;chaque jour
+143;Jadore ET;7;6;F;20;chaque jour
+143;Linstant;2;3;F;20;chaque jour
+143;Lolita Lempicka;1;11;F;20;chaque jour
+143;Pleasures;8;5;F;20;chaque jour
+143;Pure Poison;3;9;F;20;chaque jour
+143;Shalimar;2;1;F;20;chaque jour
+144;Angel;4;5;H;19;rarement
+144;Aromatics Elixir;1;4;H;19;rarement
+144;Chanel n5;1;7;H;19;rarement
+144;Cinema;4;12;H;19;rarement
+144;Coco Madmoiselle ;4;3;H;19;rarement
+144;Jadore EP;6;11;H;19;rarement
+144;Jadore ET;4;9;H;19;rarement
+144;Linstant;4;8;H;19;rarement
+144;Lolita Lempicka;3;1;H;19;rarement
+144;Pleasures;1;6;H;19;rarement
+144;Pure Poison;5;2;H;19;rarement
+144;Shalimar;5;10;H;19;rarement
+145;Angel;2;7;F;19;chaque jour
+145;Aromatics Elixir;1;2;F;19;chaque jour
+145;Chanel n5;5;9;F;19;chaque jour
+145;Cinema;6;10;F;19;chaque jour
+145;Coco Madmoiselle ;5;5;F;19;chaque jour
+145;Jadore EP;8;12;F;19;chaque jour
+145;Jadore ET;9;11;F;19;chaque jour
+145;Linstant;2;6;F;19;chaque jour
+145;Lolita Lempicka;1;3;F;19;chaque jour
+145;Pleasures;6;4;F;19;chaque jour
+145;Pure Poison;7;1;F;19;chaque jour
+145;Shalimar;1;8;F;19;chaque jour
+146;Angel;4;3;F;20;chaque jour
+146;Aromatics Elixir;2;6;F;20;chaque jour
+146;Chanel n5;2;5;F;20;chaque jour
+146;Cinema;8;11;F;20;chaque jour
+146;Coco Madmoiselle ;7;1;F;20;chaque jour
+146;Jadore EP;9;9;F;20;chaque jour
+146;Jadore ET;9;7;F;20;chaque jour
+146;Linstant;8;10;F;20;chaque jour
+146;Lolita Lempicka;7;2;F;20;chaque jour
+146;Pleasures;9;8;F;20;chaque jour
+146;Pure Poison;3;4;F;20;chaque jour
+146;Shalimar;4;12;F;20;chaque jour
+147;Angel;2;6;H;23;régulièrement
+147;Aromatics Elixir;5;11;H;23;régulièrement
+147;Chanel n5;1;4;H;23;régulièrement
+147;Cinema;2;3;H;23;régulièrement
+147;Coco Madmoiselle ;4;8;H;23;régulièrement
+147;Jadore EP;2;1;H;23;régulièrement
+147;Jadore ET;8;2;H;23;régulièrement
+147;Linstant;6;7;H;23;régulièrement
+147;Lolita Lempicka;1;10;H;23;régulièrement
+147;Pleasures;7;9;H;23;régulièrement
+147;Pure Poison;9;12;H;23;régulièrement
+147;Shalimar;3;5;H;23;régulièrement
+148;Angel;3;9;F;24;chaque jour
+148;Aromatics Elixir;3;1;F;24;chaque jour
+148;Chanel n5;2;11;F;24;chaque jour
+148;Cinema;8;8;F;24;chaque jour
+148;Coco Madmoiselle ;9;7;F;24;chaque jour
+148;Jadore EP;7;10;F;24;chaque jour
+148;Jadore ET;7;12;F;24;chaque jour
+148;Linstant;8;4;F;24;chaque jour
+148;Lolita Lempicka;9;5;F;24;chaque jour
+148;Pleasures;7;2;F;24;chaque jour
+148;Pure Poison;6;3;F;24;chaque jour
+148;Shalimar;3;6;F;24;chaque jour
+149;Angel;1;8;F;24;chaque jour
+149;Aromatics Elixir;1;9;F;24;chaque jour
+149;Chanel n5;1;6;F;24;chaque jour
+149;Cinema;2;1;F;24;chaque jour
+149;Coco Madmoiselle ;7;10;F;24;chaque jour
+149;Jadore EP;10;2;F;24;chaque jour
+149;Jadore ET;8;4;F;24;chaque jour
+149;Linstant;6;5;F;24;chaque jour
+149;Lolita Lempicka;2;12;F;24;chaque jour
+149;Pleasures;6;7;F;24;chaque jour
+149;Pure Poison;10;11;F;24;chaque jour
+149;Shalimar;1;3;F;24;chaque jour
+150;Angel;2;3;F;23;chaque jour
+150;Aromatics Elixir;1;6;F;23;chaque jour
+150;Chanel n5;2;5;F;23;chaque jour
+150;Cinema;7;11;F;23;chaque jour
+150;Coco Madmoiselle ;8;1;F;23;chaque jour
+150;Jadore EP;6;9;F;23;chaque jour
+150;Jadore ET;7;7;F;23;chaque jour
+150;Linstant;6;10;F;23;chaque jour
+150;Lolita Lempicka;8;2;F;23;chaque jour
+150;Pleasures;7;8;F;23;chaque jour
+150;Pure Poison;8;4;F;23;chaque jour
+150;Shalimar;1;12;F;23;chaque jour
+151;Angel;4;12;H;21;chaque jour
+151;Aromatics Elixir;2;5;H;21;chaque jour
+151;Chanel n5;3;10;H;21;chaque jour
+151;Cinema;8;4;H;21;chaque jour
+151;Coco Madmoiselle ;7;11;H;21;chaque jour
+151;Jadore EP;3;6;H;21;chaque jour
+151;Jadore ET;5;8;H;21;chaque jour
+151;Linstant;7;1;H;21;chaque jour
+151;Lolita Lempicka;4;9;H;21;chaque jour
+151;Pleasures;5;3;H;21;chaque jour
+151;Pure Poison;6;7;H;21;chaque jour
+151;Shalimar;4;2;H;21;chaque jour
+152;Angel;10;3;F;19;chaque jour
+152;Aromatics Elixir;1;6;F;19;chaque jour
+152;Chanel n5;1;5;F;19;chaque jour
+152;Cinema;3;11;F;19;chaque jour
+152;Coco Madmoiselle ;5;1;F;19;chaque jour
+152;Jadore EP;6;9;F;19;chaque jour
+152;Jadore ET;6;7;F;19;chaque jour
+152;Linstant;4;10;F;19;chaque jour
+152;Lolita Lempicka;9;2;F;19;chaque jour
+152;Pleasures;1;8;F;19;chaque jour
+152;Pure Poison;1;4;F;19;chaque jour
+152;Shalimar;2;12;F;19;chaque jour
+153;Angel;6;9;F;21;chaque jour
+153;Aromatics Elixir;5;1;F;21;chaque jour
+153;Chanel n5;1;11;F;21;chaque jour
+153;Cinema;4;8;F;21;chaque jour
+153;Coco Madmoiselle ;8;7;F;21;chaque jour
+153;Jadore EP;7;10;F;21;chaque jour
+153;Jadore ET;5;12;F;21;chaque jour
+153;Linstant;6;4;F;21;chaque jour
+153;Lolita Lempicka;7;5;F;21;chaque jour
+153;Pleasures;6;2;F;21;chaque jour
+153;Pure Poison;5;3;F;21;chaque jour
+153;Shalimar;1;6;F;21;chaque jour
+154;Angel;7;8;F;22;jamais
+154;Aromatics Elixir;3;9;F;22;jamais
+154;Chanel n5;2;6;F;22;jamais
+154;Cinema;8;1;F;22;jamais
+154;Coco Madmoiselle ;7;10;F;22;jamais
+154;Jadore EP;7;2;F;22;jamais
+154;Jadore ET;6;4;F;22;jamais
+154;Linstant;9;5;F;22;jamais
+154;Lolita Lempicka;5;12;F;22;jamais
+154;Pleasures;6;7;F;22;jamais
+154;Pure Poison;8;11;F;22;jamais
+154;Shalimar;1;3;F;22;jamais
+155;Angel;2;2;F;23;chaque jour
+155;Aromatics Elixir;10;10;F;23;chaque jour
+155;Chanel n5;3;1;F;23;chaque jour
+155;Cinema;9;7;F;23;chaque jour
+155;Coco Madmoiselle ;4;4;F;23;chaque jour
+155;Jadore EP;3;5;F;23;chaque jour
+155;Jadore ET;7;3;F;23;chaque jour
+155;Linstant;2;11;F;23;chaque jour
+155;Lolita Lempicka;2;9;F;23;chaque jour
+155;Pleasures;1;12;F;23;chaque jour
+155;Pure Poison;3;8;F;23;chaque jour
+155;Shalimar;7;6;F;23;chaque jour
+156;Angel;1;10;F;23;chaque jour
+156;Aromatics Elixir;1;7;F;23;chaque jour
+156;Chanel n5;2;8;F;23;chaque jour
+156;Cinema;5;2;F;23;chaque jour
+156;Coco Madmoiselle ;4;12;F;23;chaque jour
+156;Jadore EP;8;4;F;23;chaque jour
+156;Jadore ET;7;6;F;23;chaque jour
+156;Linstant;7;3;F;23;chaque jour
+156;Lolita Lempicka;5;11;F;23;chaque jour
+156;Pleasures;6;5;F;23;chaque jour
+156;Pure Poison;4;9;F;23;chaque jour
+156;Shalimar;1;1;F;23;chaque jour
+157;Angel;1;8;F;23;chaque jour
+157;Aromatics Elixir;1;9;F;23;chaque jour
+157;Chanel n5;3;6;F;23;chaque jour
+157;Cinema;8;1;F;23;chaque jour
+157;Coco Madmoiselle ;6;10;F;23;chaque jour
+157;Jadore EP;9;2;F;23;chaque jour
+157;Jadore ET;10;4;F;23;chaque jour
+157;Linstant;10;5;F;23;chaque jour
+157;Lolita Lempicka;10;12;F;23;chaque jour
+157;Pleasures;10;7;F;23;chaque jour
+157;Pure Poison;5;11;F;23;chaque jour
+157;Shalimar;1;3;F;23;chaque jour
+158;Angel;5;6;F;22;régulièrement
+158;Aromatics Elixir;2;11;F;22;régulièrement
+158;Chanel n5;1;4;F;22;régulièrement
+158;Cinema;4;3;F;22;régulièrement
+158;Coco Madmoiselle ;5;8;F;22;régulièrement
+158;Jadore EP;6;1;F;22;régulièrement
+158;Jadore ET;6;2;F;22;régulièrement
+158;Linstant;9;7;F;22;régulièrement
+158;Lolita Lempicka;5;10;F;22;régulièrement
+158;Pleasures;7;9;F;22;régulièrement
+158;Pure Poison;8;12;F;22;régulièrement
+158;Shalimar;1;5;F;22;régulièrement
